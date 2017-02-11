@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'GT-Pressura-Regular';
+  src: url('GT-Pressura-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'GT-Pressura-Bold';
+  src: url('GT-Pressura-Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'GT-Pressura-Light';
+  src: url('GT-Pressura-Light.woff') format('woff');
+}

@@ -1,0 +1,62 @@
+@font-face {
+  font-family: 'GT-Pressura-Regular';
+  src: url('../fonts/GT-Pressura-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'GT-Pressura-Bold';
+  src: url('../fonts/GT-Pressura-Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'GT-Pressura-Light';
+  src: url('../fonts/GT-Pressura-Light.woff') format('woff');
+}
+
+body {
+  font-family: 'GT-Pressura-Regular';
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4 {
+  color: rgba(168, 243, 31, 1);
+  font-family: 'GT-Pressura-Bold';
+  font-weight: normal;
+}
+
+h1 {
+  font-size: 12vmin;
+  line-height: 1.1em;
+  margin: 0
+}
+
+p {
+  font-size: 1.5rem;
+  font-family: 'GT-Pressura-Light';
+  color: rgba(255, 255, 255, 1);
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 24px 0;
+}
+
+header {
+  background-color: rgba(168, 243, 31, 1);
+  padding: 72px 0;
+}
+
+main {
+  background-color: rgba(0, 0, 0, 1);
+}
+
+header > img {
+  width: 18vmax;
+}
+
+a {
+  color: rgba(255, 255, 255, 1);
+}
