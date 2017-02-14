@@ -6,13 +6,13 @@
 body {
   font-family: 'GT-Pressura-Light';
   text-align: center;
+  background-color: rgba(0, 0, 0, 1);
   margin: 0;
   padding: 0;
 }
 
 h1, h2, h3, h4 {
   color: rgba(168, 243, 31, 1);
-  font-family: 'GT-Pressura-Light';
   font-weight: normal;
 }
 
@@ -36,10 +36,6 @@ p {
 header {
   background-color: rgba(168, 243, 31, 1);
   padding: 72px 0;
-}
-
-main {
-  background-color: rgba(0, 0, 0, 1);
 }
 
 header > img {
