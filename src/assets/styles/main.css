@@ -1,14 +1,97 @@
 @font-face {
-  font-family: 'GT-Pressura-Regular';
-  src: url('GT-Pressura-Regular.woff') format('woff');
-}
-
-@font-face {
-  font-family: 'GT-Pressura-Bold';
-  src: url('GT-Pressura-Bold.woff') format('woff');
-}
-
-@font-face {
   font-family: 'GT-Pressura-Light';
-  src: url('GT-Pressura-Light.woff') format('woff');
+  src: url('../fonts/GT-Pressura-Light.woff') format('woff');
+}
+
+@lost flexbox flex;
+
+@custom-media --tiny-view (width >= 481px) and (width <= 600px);
+@custom-media --small-view (width >= 601px) and (width <= 768px);
+@custom-media --medium-view (width >= 769px) and (width <= 1024px);
+@custom-media --large-view (width >= 1025px);
+@custom-media --narrower-view (width <= 900px);
+
+:root {
+  --primaryColor: rgba(168, 243, 31, 1);
+  --secondaryColor: rgba(0, 0, 0, 1);
+  --primaryFont: 'GT-Pressura-Light';
+}
+
+body {
+  background: var(--secondaryColor);
+  font-family: var(--primaryFont);
+  color: rgba(255, 255, 255, 1);
+  margin: initial;
+  padding: initial;
+}
+
+h1, h2, h3, h4 {
+  color: var(--primaryColor);
+  font-family: var(--primaryFont);
+  font-weight: normal;
+  margin: initial;
+}
+
+h1 {
+  font-size: 12vmin;
+  line-height: 1.1em;
+  margin-bottom: 1.5rem;
+}
+
+p {
+  font-size: 1.5rem;
+  margin: initial;
+  margin-bottom: 1.5rem
+}
+
+a {
+  color: rgba(255, 255, 255, 1);
+}
+
+header {
+  background: var(--primaryColor);
+  lost-center: 100%;
+  lost-align: center;
+  padding: 72px 0;
+}
+
+#logo {
+  width: 18vmax;
+}
+
+main,
+section,
+footer {
+  lost-center: 900px;
+  lost-align: center;
+
+  @media (--narrower-view) {
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+
+}
+
+main {
+  padding: 24px 0;
+}
+
+section {
+  margin-top: 5vh;
+}
+
+.profile {
+  lost-column: 1/2;
+
+  & h2 {
+    font-size: 1.5rem;
+    text-align: center;
+    margin-top: 1.5rem;
+  }
+
+  & img {
+    max-width: 100%;
+    display: block;
+  }
+
 }
