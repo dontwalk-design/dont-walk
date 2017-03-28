@@ -80,6 +80,24 @@ section {
   margin-top: 5vh;
 }
 
+.promote {
+  /*background: var(--primaryColor);*/
+  background: rgba(168, 243, 31, .1);
+  lost-center: 100%;
+  lost-align: center;
+  padding: 72px 0;
+}
+
+footer {
+  padding: 24px 0;
+}
+
+footer p {
+  display: block;
+  width: 100%;
+  text-align: center;
+}
+
 .profile {
   lost-column: 1/2;
 
