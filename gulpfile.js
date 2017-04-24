@@ -14,8 +14,8 @@ gulp.task('css', function() {
   return gulp.src(paths.cssSrc + '**/*.css')
     .pipe(sourcemaps.init())
     .pipe(postcss([
-      lost(),
       cssnext(),
+      lost(),
       cssnano()
     ]))
     .pipe(sourcemaps.write('.'))
