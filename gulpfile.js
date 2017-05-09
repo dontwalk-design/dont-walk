@@ -1,27 +1,57 @@
-var gulp = require('gulp'),
-  postcss = require('gulp-postcss'),
-  sourcemaps = require('gulp-sourcemaps'),
-  cssnext = require('postcss-cssnext'),
-  lost = require('lost'),
-  cssnano = require('cssnano');
-
-var paths = {
-  cssSrc: 'src/assets/styles/',
-  cssOut: 'public/assets/css/'
-};
+var postcss = require('gulp-postcss');
+var gulp = require('gulp');
+var browserSync = require('browser-sync').create();
+var sourcemaps = require('gulp-sourcemaps');
+var cssnext = require('postcss-cssnext');
+var lost = require('lost');
+var cssnano = require('cssnano');
+var htmlmin = require('gulp-htmlmin');
 
 gulp.task('css', function() {
-  return gulp.src(paths.cssSrc + '**/*.css')
+  var plugins = [
+    cssnext(),
+    lost(),
+    cssnano()
+  ];
+  return gulp.src('./src/css/**/*.css')
     .pipe(sourcemaps.init())
-    .pipe(postcss([
-      cssnext(),
-      lost(),
-      cssnano()
-    ]))
+    .pipe(postcss(plugins))
     .pipe(sourcemaps.write('.'))
-    .pipe(gulp.dest(paths.cssOut));
+    .pipe(gulp.dest('./docs/assets/css'))
+    .pipe(browserSync.reload({
+      stream: true
+    }))
 });
 
-gulp.watch(paths.cssSrc + '**/*.css', ['css']);
+gulp.task('html', function() {
+  return gulp.src('./src/*.html')
+    .pipe(htmlmin({
+      collapseWhitespace: true,
+      removeComments: true
+    }))
+    .pipe(gulp.dest('./docs'))
+    .pipe(browserSync.reload({
+      stream: true
+    }))
+});
 
-gulp.task('default', [ 'css' ]);
+gulp.task('fonts', function() {
+  return gulp.src('./src/fonts/**/*')
+    .pipe(gulp.dest('./docs/assets/fonts'))
+});
+
+gulp.task('browserSync', function() {
+  browserSync.init({
+    server: {
+      baseDir: './docs/'
+    },
+  })
+});
+
+gulp.task('watch', ['browserSync', 'css', 'html'], function() {
+  gulp.watch('./src/css/**/*.css', ['css']);
+  gulp.watch('./src/*.html', ['html']);
+  gulp.watch('./src/js/**/*.js', browserSync.reload);
+});
+
+gulp.task('default', ['watch']);
