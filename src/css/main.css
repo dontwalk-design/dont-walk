@@ -326,6 +326,7 @@ main {
 
   @media (--large-view) {
     lost-column: 1/4;
+    text-align: left;
   }
 }
 
