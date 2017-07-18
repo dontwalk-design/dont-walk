@@ -316,7 +316,7 @@ main {
   }
 
   @media (--small-view) {
-    lost-column: 1/4;
+    lost-column: 1/3 4;
     display: inline-block;
   }
 
@@ -379,12 +379,12 @@ main {
   }
 
   @media (--medium-view) {
-    lost-column: 3/4;
+    lost-column: 1/3;
     text-align: left;
   }
 
   @media (--large-view) {
-    lost-column: 1/2;
+    lost-column: 1/3;
     text-align: left;
   }
 }
@@ -442,7 +442,7 @@ main {
 
   @media (--small-view) {
     text-align: left;
-    lost-column: 1/4;
+    lost-column: 1/3 4;
     display: inline-block;
   }
 
