@@ -10,7 +10,7 @@
 @custom-media --large-view (width >= 1025px);
 
 :root {
-  --primaryColor: rgba(168, 243, 31, 1);
+  --primaryColor: rgba(255, 244, 0, 1);
   --secondaryColor: rgba(0, 0, 0, 1);
   --primaryFont: 'GT-Pressura-Light';
 }

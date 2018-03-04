@@ -10,21 +10,23 @@
 @custom-media --large-view (width >= 1025px);
 
 :root {
-  --primaryColor: rgba(168, 243, 31, 1);
-  --secondaryColor: rgba(0, 0, 0, 1);
+  --primaryColor: rgba(255, 244, 0, 1);
+  --secondaryColor: rgba(255, 255, 255, 1);
+  --headingColor: rgba(0, 0, 0, 1);
+  --textColor: rgba(0, 0, 0, 1);
   --primaryFont: 'GT-Pressura-Light';
 }
 
 body {
   background: var(--secondaryColor);
   font-family: var(--primaryFont);
-  color: rgba(255, 255, 255, 1);
+  color: var(--textColor);
   margin: initial;
   padding: initial;
 }
 
 h1, h2, h3, h4 {
-  color: var(--primaryColor);
+  color: var(--headingColor);
   font-family: var(--primaryFont);
   font-weight: normal;
   margin: initial;
@@ -52,9 +54,9 @@ p, li {
 }
 
 a {
-  color: rgba(255, 255, 255, 1);
+  color: var(--textColor);
   text-decoration: none;
-  border-bottom: 2px solid rgba(255, 255, 255, .5);
+  border-bottom: 2px solid rgba(255, 244, 0, 1);
 }
 
 a:hover {
