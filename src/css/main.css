@@ -3,6 +3,11 @@
   src: url('../fonts/GT-Pressura-Light.woff') format('woff');
 }
 
+@font-face {
+  font-family: 'GT-Pressura-Regular';
+  src: url('../fonts/GT-Pressura-Regular.woff') format('woff');
+}
+
 @lost flexbox flex;
 
 @custom-media --small-view (width >= 601px) and (width <= 768px);
@@ -15,6 +20,7 @@
   --headingColor: rgba(0, 0, 0, 1);
   --textColor: rgba(0, 0, 0, 1);
   --primaryFont: 'GT-Pressura-Light';
+  --bolderFont: 'GT-Pressura-Regular';
 }
 
 body {
@@ -396,7 +402,7 @@ main {
   margin: 0;
 
   & h3 {
-    font-weight:600;
+    font-family: var(--bolderFont);
   }
 }
 
