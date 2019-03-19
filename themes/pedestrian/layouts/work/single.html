@@ -6,13 +6,11 @@
 
 	<section class="w-80 mw8-l center pv4">
 
-    <h1 class="ttu f3 f1-ns">Work— <br>Scottish Mountain Rescue: <br>Brand Building</h1>
+    <h1 class="ttu f3 f1-ns">Work— {{ .Title }}</h1>
 
     <div class="pb3 pb0-ns">
       <div class="w-100">
-        <a href="smr-brand-building.html">
-          <img src="images/work/SMR/SMR-brand-building.png" alt="Scottish Mountain rescue">
-        </a>
+				<img src="{{ .Params.projectImage | absURL }}" alt="{{ .Title }}">
       </div>
     </div>
 
