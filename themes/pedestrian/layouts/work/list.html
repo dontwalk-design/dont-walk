@@ -1,0 +1,20 @@
+{{ define "main" }}
+
+	<section class="w-80 mw8-l center pv4" id="work">
+
+		<h1 class="ttu f3 f1-ns">{{ .Title }}</h1>
+
+		<div class="cf">
+		{{ $paginator := .Paginate (where .Data.Pages "Section" "work").ByDate.Reverse 4 }}
+		{{ range $paginator.Pages }}
+			{{ partial "projectSummary.html" . }}
+		{{ end }}
+		</div>
+
+		{{ partial "pagination.html" . }}
+
+	</section>
+
+	{{ partial "quoteRamblers.html" . }}
+
+{{ end }}
