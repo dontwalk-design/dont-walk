@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+    <meta name="author" content='{{ index .Params "author" | default "Dont Walk" }}'>
+    <meta name="description" content='{{ index .Params "description" | default "Enemies of pedestrian branding" }}'>
+    <base href="{{ .Site.BaseURL }}">
+    <link rel="stylesheet" href="css/main.css">
+  </head>
+  <body>
+    <header>
+      <h1><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
+      <h2>Enemies of pedestrian branding.</h2>
+
+      {{ $currentNode := . }}
+      {{ range .Site.Menus.main }}
+      <a href="{{.URL}}">{{ .Name }}</a>
+      {{ end }}
+    </header>
+
+    <main>
+      {{ block "main" . }}
+      <!-- If you see this, you've made a mess of your templates -->
+      {{ end }}
+    </main>
+
+    <footer>
+      <p>&copy; {{ now.Year }} <a href="{{ .Site.BaseURL }}">{{ .Site.Title }} LLP.</a> Registered in Scotland SO306359</p>
+      <p>Albert House, 308 Albert Drive, Glasgow, Lanarkshire, United Kingdom, G41 5RS</p>
+    </footer>
+
+    {{/* {{ template "_internal/google_analytics.html" . }} */}}
+
+  </body>
+</html>

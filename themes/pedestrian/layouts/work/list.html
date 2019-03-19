@@ -1,0 +1,11 @@
+{{ define "main" }}
+	<main>
+    <h1>WORK (LIST)</h1>
+		{{ $paginator := .Paginate (where .Data.Pages "Section" "work").ByDate.Reverse 2 }}
+		{{ range $paginator.Pages }}
+			{{ partial "projectSummary.html" . }}
+		{{ end }}
+
+		{{ partial "pagination.html" . }}
+	</main>
+{{ end }}

@@ -1,4 +1,3 @@
-# Don't walk website
-
-## V.0.1
-Static build of the homepage as a pre-cursor to the full HUGO build. This is the MVP here.
+# next-dont
+Next version of don't-walk.com
+We have nailed yellow at #FFEC2D

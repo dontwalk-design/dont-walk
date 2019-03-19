@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://mcaulay.github.io/next-dont/work/</loc>
+    <lastmod>2019-03-05T20:20:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mcaulay.github.io/next-dont/work/project03/</loc>
+    <lastmod>2019-03-05T20:20:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mcaulay.github.io/next-dont/work/project04/</loc>
+    <lastmod>2019-03-05T20:20:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mcaulay.github.io/next-dont/</loc>
+    <lastmod>2019-03-05T20:20:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mcaulay.github.io/next-dont/work/project02/</loc>
+    <lastmod>2019-03-05T20:20:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mcaulay.github.io/next-dont/work/project01/</loc>
+    <lastmod>2019-03-05T20:07:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mcaulay.github.io/next-dont/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mcaulay.github.io/next-dont/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

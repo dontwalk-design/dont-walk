@@ -1,0 +1,33 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Don't Walk"
+theme = "pedestrian"
+publishDir = "docs"
+
+[menu]
+
+    [[menu.main]]
+      name = "Work"
+      weight = -150
+      identifier = "work"
+      url = "/work/"
+    [[menu.main]]
+      name = "People"
+      weight = -140
+      identifier = "people"
+      url = "/#people"
+    [[menu.main]]
+      name = "Clients"
+      weight = -130
+      identifier = "clients"
+      url = "/#clients"
+    [[menu.main]]
+      name = "Skills"
+      weight = -120
+      identifier = "skills"
+      url = "/#skills"
+    [[menu.main]]
+      name = "Contact"
+      weight = -110
+      identifier = "contact"
+      url = "/#contact"

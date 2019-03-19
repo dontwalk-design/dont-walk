@@ -1,0 +1,16 @@
+<article>
+  <a href='{{ .Permalink }}'>
+    {{ if isset .Params "projectImage" }}
+    <img src="{{ .Params.projectImage | absURL }}" alt="{{ .Title }}" />
+    {{ end }}
+    <h3>{{ .Title }}</h3>
+  </a>
+  {{ if isset .Params "projectImage" }}
+  <p>
+    {{ .Params.projectExcerpt }}
+  </p>
+  {{ end }}
+  {{/* Some content to test with until we have data */}}
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Cornwall_Daffodils.jpg/1200px-Cornwall_Daffodils.jpg" alt="yellow things">
+  <p>Yellow is the color between orange and green on the spectrum of visible light. It is evoked by light with a dominant wavelength of roughly 570–590 nm.</p>
+</article>
