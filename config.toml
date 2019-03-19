@@ -1,5 +1,5 @@
-baseURL = "/"
-languageCode = "en-us"
+baseURL = ""
+languageCode = "en-GB"
 title = "Don't Walk"
 theme = "pedestrian"
 publishDir = "docs"
@@ -10,7 +10,7 @@ publishDir = "docs"
       name = "Work"
       weight = -150
       identifier = "work"
-      url = "/work/"
+      url = "/#work"
     [[menu.main]]
       name = "People"
       weight = -140

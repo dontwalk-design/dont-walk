@@ -1,7 +1,7 @@
 ---
 title: "Scottish Mountain Rescue: Brand Building"
 date: 2019-03-19T21:13:07Z
-draft: false
+draft: true
 
 projectImage: "images/work/SMR/SMR-brand-building.png"
 ---

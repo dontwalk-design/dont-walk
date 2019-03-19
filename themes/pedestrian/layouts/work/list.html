@@ -2,7 +2,7 @@
 
 	<section class="w-80 mw8-l center pv4" id="work">
 
-		<h1 class="ttu f3 f1-ns">Work—</h1>
+		<h1 class="ttu f3 f1-ns">{{ .Title }}</h1>
 
 		<div class="cf">
 		{{ $paginator := .Paginate (where .Data.Pages "Section" "work").ByDate.Reverse 4 }}

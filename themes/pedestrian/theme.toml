@@ -2,10 +2,10 @@ name = "Pedestrian"
 license = "MIT"
 licenselink = "https://github.com/vimux/blank/blob/master/LICENSE.md"
 description = "Hugo theme for Don't Walk."
-homepage = "https://github.com/vimux/blank/"
-tags = ["blog", "plain", "blank"]
-features = ["blog"]
-min_version = 0.19
+homepage = ""
+tags = ["yellow", "ice-cream", "ice-lolly"]
+features = ["yellow"]
+min_version = 0.54
 
 [author]
   name = "Don't Walk"

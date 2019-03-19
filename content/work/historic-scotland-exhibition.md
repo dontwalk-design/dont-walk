@@ -1,7 +1,7 @@
 ---
 title: "Historic Scotland: Exhibition"
 date: 2019-03-19T21:11:07Z
-draft: false
+draft: true
 
 projectImage: "images/work/HES/HES.png"
 ---
