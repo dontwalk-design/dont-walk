@@ -4,30 +4,37 @@ title = "Don't Walk"
 theme = "pedestrian"
 publishDir = "docs"
 
-[menu]
+[taxonomies]
+  series = "series"
 
-    [[menu.main]]
-      name = "Work"
-      weight = -150
-      identifier = "work"
-      url = "/#work"
-    [[menu.main]]
-      name = "People"
-      weight = -140
-      identifier = "people"
-      url = "/#people"
-    [[menu.main]]
-      name = "Clients"
-      weight = -130
-      identifier = "clients"
-      url = "/#clients"
-    [[menu.main]]
-      name = "Skills"
-      weight = -120
-      identifier = "skills"
-      url = "/#skills"
-    [[menu.main]]
-      name = "Contact"
-      weight = -110
-      identifier = "contact"
-      url = "/#contact"
+[params]
+  description = "Don't Walk is a creative partnership specialising in branding"
+  images = ["/images/lost/torridon-2016.png"]
+  title = "Don't Walk"
+
+[menu]
+  [[menu.main]]
+    name = "Work"
+    weight = -150
+    identifier = "work"
+    url = "/#work"
+  [[menu.main]]
+    name = "People"
+    weight = -140
+    identifier = "people"
+    url = "/#people"
+  [[menu.main]]
+    name = "Clients"
+    weight = -130
+    identifier = "clients"
+    url = "/#clients"
+  [[menu.main]]
+    name = "Skills"
+    weight = -120
+    identifier = "skills"
+    url = "/#skills"
+  [[menu.main]]
+    name = "Contact"
+    weight = -110
+    identifier = "contact"
+    url = "/#contact"
