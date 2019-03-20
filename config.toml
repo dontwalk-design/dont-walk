@@ -3,6 +3,7 @@ languageCode = "en-GB"
 title = "Don't Walk"
 theme = "pedestrian"
 publishDir = "docs"
+disableKinds = ["taxonomy","taxonomyTerm"]
 
 [taxonomies]
   series = "series"
