@@ -4,6 +4,9 @@ title = "Don't Walk"
 theme = "pedestrian"
 publishDir = "docs"
 
+[taxonomies]
+  series = "series"
+
 [params]
   description = "Don't Walk is a creative partnership specialising in branding"
   images = ["/images/lost/torridon-2016.png"]
