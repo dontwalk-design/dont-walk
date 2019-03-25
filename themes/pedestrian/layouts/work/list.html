@@ -4,14 +4,22 @@
 
 		<h1 class="ttu f3 f1-ns">{{ .Title }}</h1>
 
+		{{ .Content }}
+
+		{{ range first 1 (where .Data.Pages "Section" "work").ByDate.Reverse }}
+		  {{ partial "latestProject.html" . }}
+		{{ end }}
+
+		<div class="cf pt3-ns">
+		{{ range first 2 (after 1 (where .Data.Pages "Section" "work").ByDate.Reverse) }}
+		  {{ partial "twoProjects.html" . }}
+		{{ end }}
+
 		<div class="cf">
-		{{ $paginator := .Paginate (where .Data.Pages "Section" "work").ByDate.Reverse 4 }}
-		{{ range $paginator.Pages }}
+		{{ range after 3 (where .Data.Pages "Section" "work").ByDate.Reverse }}
 			{{ partial "projectSummary.html" . }}
 		{{ end }}
 		</div>
-
-		{{ partial "pagination.html" . }}
 
 	</section>
 

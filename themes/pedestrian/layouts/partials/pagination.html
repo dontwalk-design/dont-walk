@@ -1,16 +1,3 @@
-{{/* <div>
-{{ if .Paginator.HasPrev }}
-	<a href="{{ .Paginator.Prev.URL }}">Previous Page</a>
-{{ end }}
-{{ .Paginator.PageNumber }} of {{ .Paginator.TotalPages }}
-{{ if .Paginator.HasNext }}
-	<a href="{{ .Paginator.Next.URL }}">Next Page</a>
-{{ end }}
-</div> */}}
-
-
-
-
 <div class="flex items-center justify-center pa4">
 	{{ if .Paginator.HasPrev }}
   <a href="{{ .Paginator.Prev.URL }}" class="f5 no-underline black bg-white bg-animate hover-bg-yellow inline-flex items-center pa3 mr4">
