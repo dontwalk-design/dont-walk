@@ -1,4 +1,17 @@
 ---
 label: Image with caption
 hide_body: true
-fields: []
+display_field: image
+fields:
+- type: file
+  label: Image
+  name: image
+  description: jpeg or png at 1024px wide
+- type: text
+  name: alt_text
+  label: Alt text
+  description: The alt attribute text for this image
+- type: text
+  name: caption
+  label: Caption
+  description: If this requires a caption, keep it nice and short
