@@ -1,13 +1,8 @@
-{{/* {{ if isset .Params "projectImage" }}
-<img src="{{ .Params.projectImage | absURL }}" alt="{{ .Title }}" />
-{{ end }}
-{{ .Title }}
-{{ .Params.projectExcerpt }} */}}
 
     <div class="fl w-50 w-25-ns pa2">
       <div class="tc">
         <a class="link" href="{{ .Permalink }}">
-          <img src="{{ .Params.projectImage | absURL }}" alt="{{ .Title }}">
+          <img src="{{ .Params.project_image | relURL }}" alt="{{ .Title }}">
         </a>
         <p>{{ .Title }}</p>
       </div>
