@@ -21,6 +21,5 @@ a_project:
 - paragraphs: "Don’t Walk have been providing graphic design services and consultancy
     to Scottish Mountain Rescue since 2017. \n\nProject overview coming soon…"
   template: paragraphs
-draft: true
 
 ---
