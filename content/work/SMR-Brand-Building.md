@@ -19,7 +19,7 @@ a_project:
     image: "/uploads/SMR-brand-building.png"
     template: image-with-caption
 - paragraphs: "Don’t Walk have been providing graphic design services and consultancy
-    to Scottish Mountain Rescue since 2017. \n\nProject overview coming soon."
+    to Scottish Mountain Rescue since 2017. \n\nProject overview coming soon…"
   template: paragraphs
 draft: true
 
