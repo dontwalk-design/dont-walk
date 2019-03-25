@@ -1,4 +1,13 @@
 ---
 label: Four Images
 hide_body: true
-fields: []
+display_field: four_images
+fields:
+- type: blocks
+  name: four_images
+  label: Four images
+  config:
+    min: '1'
+    max: '4'
+  template_types:
+  - image-with-caption
