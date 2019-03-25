@@ -1,4 +1,8 @@
 ---
 label: Paragraphs
 hide_body: true
-fields: []
+display_field: paragraphs
+fields:
+- type: textarea
+  name: paragraphs
+  label: Paragraphs
