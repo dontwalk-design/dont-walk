@@ -1,0 +1,8 @@
+<div class="cf pt3-ns">
+  {{ range .two_images }}
+  <div class="fl w-100 w-50-ns pr2-ns pb3 pb0-ns">
+    <img src="{{ . | relURL }}" alt="{{ .alt_text }}">
+    <p>{{ .caption }}</p>
+  </div>
+  {{ end }}
+</div>
