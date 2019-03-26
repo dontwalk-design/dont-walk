@@ -2,6 +2,8 @@
   {{ range .one_image }}
   <div class="w-100">
     <img src="{{ . | relURL }}" alt="{{ .alt_text }}">
+    <!-- {{ .one_image | absURL }} -->
+    <!-- {{ . | absURL }} -->
     <p>{{ .caption }}
   </div>
   {{ end }}
