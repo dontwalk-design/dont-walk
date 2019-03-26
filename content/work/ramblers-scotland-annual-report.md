@@ -18,7 +18,7 @@ a_project:
     image: "/uploads/ramblers-scotland-report.png"
 - template: paragraphs
   paragraphs: |-
-    Don't Walk helped to create the first ever professionally designed annual report for Ramblers Scotland members covering 2017/18.
+    Don't Walk helped to create the first ever professionally designed annual report for Ramblers Scotland members (2017–18).
 
     Project overview coming soon.
 
