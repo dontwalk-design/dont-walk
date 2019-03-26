@@ -2,7 +2,7 @@
   {{ range .four_images }}
   <div class="fl w-50 w-25-ns pa2">
     <div class="tc">
-      <img src="{{ . | relURL }}" alt="{{ .alt_text }}">
+      <img src="{{ .image | relURL }}" alt="{{ .alt_text }}">
       <p>{{ .caption }}</p>
     </div>
   </div>
