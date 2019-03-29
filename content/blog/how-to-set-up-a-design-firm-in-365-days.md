@@ -64,19 +64,19 @@ template = "paragraphs"
 heading = "We’ve not done our folio"
 template = "heading"
 [[a_post]]
-paragraphs = "But that’s not to say we haven’t been busy. In our first year we’ve been incredibly proud to have worked with, amongst others—\nScottish Mountain Rescue\nHistoric Scotland\nCodify\nThe Herald\nRamblers Scotland\nCepac\nUniversity of Glasgow\n\nWe’ve also been proud to work alongside—\nTwo illustrators\nTwo photographers\nTwo designers\nTwo copywriters\nOne software engineer\nand one Architect\n\n(Ben O’Brien, Claire Jones, Adam Robertson, Jonathan Addie, Connor Lyon, Paul Mullen, Emma Gordon, Jemma Beedie, Robert Simpson and David Crozier)."
+paragraphs = "But that’s not to say we haven’t been busy. In our first year we’ve been incredibly proud to have worked with, amongst others—\n\nScottish Mountain Rescue\n\nHistoric Scotland\n\nCodify\n\nThe Herald\n\nRamblers Scotland\n\nCepac\n\nUniversity of Glasgow\n\nWe’ve also been proud to work alongside—\n\nTwo illustrators\n\nTwo photographers\n\nTwo designers\n\nTwo copywriters\n\nOne software engineer\n\nand one Architect\n\n(Ben O’Brien, Claire Jones, Adam Robertson, Jonathan Addie, Connor Lyon, Paul Mullen, Emma Gordon, Jemma Beedie, Robert Simpson and David Crozier)."
 template = "paragraphs"
 [[a_post]]
 heading = "What we’re currently working on"
 template = "heading"
 [[a_post]]
-paragraphs = "A print project for a national charity\nA branding project for a software engineering company\nThe brand identity for a life saving charity\nRetail design for a university"
+paragraphs = "A print project for a national charity\n\nA branding project for a software engineering company\n\nThe brand identity for a life saving charity\n\nRetail design for a university"
 template = "paragraphs"
 [[a_post]]
 heading = "Final thoughts"
 template = "heading"
 [[a_post]]
-paragraphs = "We still don’t have a logo\nOur new website is on the way\nWe’re still not 100% about yellow\nWe’ll never agree on ice cream vs ice lollies (and that’s ok)"
+paragraphs = "We still don’t have a logo\n\nOur new website is on the way\n\nWe’re still not 100% about yellow\n\nWe’ll never agree on ice cream vs ice lollies (and that’s ok)"
 template = "paragraphs"
 [[a_post]]
 template = "large-image"
