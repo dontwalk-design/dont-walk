@@ -35,6 +35,7 @@ a_project:
     Number of Ramblers Scotland members in 2018, for whom this document
     was created.
 
+
 - template: large-image
   one_image:
   - template: image-with-caption
