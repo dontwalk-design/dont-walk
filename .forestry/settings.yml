@@ -10,18 +10,22 @@ sections:
   create: all
   match: "**/*"
   templates:
+  - section-entry-page
   - a-post
 - type: directory
   path: content
   label: Pages
   create: all
   match: "*"
+  templates:
+  - section-entry-page
 - type: directory
   path: content/testimonials
   label: Testimonials
   create: all
   match: "**/*"
   templates:
+  - section-entry-page
   - a-testimonial
 - type: directory
   path: content/work
@@ -29,6 +33,7 @@ sections:
   create: all
   match: "**/*"
   templates:
+  - section-entry-page
   - a-project
 upload_dir: static/uploads
 public_path: "/uploads"
