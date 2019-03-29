@@ -6,12 +6,9 @@ date: 2019-03-25 23:04:07 +0000
 images:
 - images/work/cepac/cepac.png
 relateMe: project
-projectImage: images/work/cepac/cepac.png
 project_title: 'Cepac: Spirits promo packaging'
 project_image: "/uploads/cepac.png"
-project_excerpt: Working in collaboration with illustrator Ben O'Brien, Don't Walk
-  designed and co-ordinated a print campaign to introduce the Arcwise packaging system.
-  Project overview coming soon.
+project_excerpt: Less words here as it's an excerpt.
 a_project:
 - template: large-image
   one_image:
@@ -24,4 +21,4 @@ a_project:
     overview coming soon.
 
 ---
-I am a project. There are many like me but i am unique.
+I am a project.

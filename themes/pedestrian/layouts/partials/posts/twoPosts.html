@@ -1,0 +1,12 @@
+{{/* {{ if isset .Params "projectImage" }}
+<img src="{{ .Params.projectImage | absURL }}" alt="{{ .Title }}" />
+{{ end }}
+{{ .Title }}
+{{ .Params.projectExcerpt }} */}}
+
+    <div class="fl w-100 w-50-ns pr2-ns pb3 pb0-ns">
+      <a class="link" href="{{ .Permalink }}">
+        <img src="{{ .Params.post_image | absURL }}" alt="{{ .Title }}">
+      </a>
+      <p>{{ .Title }}</p>
+    </div>
