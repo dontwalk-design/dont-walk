@@ -76,7 +76,7 @@ template = "paragraphs"
 heading = "Final thoughts"
 template = "heading"
 [[a_post]]
-paragraphs = "We still don’t have a logo\n\nOur new website is on the way\n\nWe’re still not 100% about yellow\n\nWe’ll never agree on ice cream vs ice lollies (and that’s ok)"
+paragraphs = "* We still don’t have a logo\n* Our new website is on the way\n* We’re still not 100% about yellow\n* We’ll never agree on ice cream vs ice lollies (and that’s ok)"
 template = "paragraphs"
 [[a_post]]
 template = "large-image"
