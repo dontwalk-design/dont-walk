@@ -34,6 +34,8 @@ a_project:
   paragraphs: |-
     Number of Ramblers Scotland members in 2018, for whom this document
     was created.
+
+    That's a lot.
 - template: large-image
   one_image:
   - template: image-with-caption
