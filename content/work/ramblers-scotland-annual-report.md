@@ -31,11 +31,10 @@ a_project:
 - template: heading
   heading: '6,427'
 - template: paragraphs
-  paragraphs: |-
+  paragraphs: |+
     Number of Ramblers Scotland members in 2018, for whom this document
     was created.
 
-    That's a lot.
 - template: large-image
   one_image:
   - template: image-with-caption
