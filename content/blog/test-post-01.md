@@ -2,6 +2,7 @@
 title: 'Test Post 01'
 description: Don't Walk test these things before they launch them…don't they?
 date: 2019-03-28 23:04:07 +0000
+draft: true
 relateMe: post
 post_title: 'Post: Title'
 post_image: "/uploads/cepac.png"
