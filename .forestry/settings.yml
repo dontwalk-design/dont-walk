@@ -5,6 +5,13 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: content/blog
+  label: Blog
+  create: all
+  match: "**/*"
+  templates:
+  - a-post
+- type: directory
   path: content
   label: Pages
   create: all
@@ -14,11 +21,15 @@ sections:
   label: Testimonials
   create: all
   match: "**/*"
+  templates:
+  - a-testimonial
 - type: directory
   path: content/work
   label: Work
   create: all
   match: "**/*"
+  templates:
+  - a-project
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
