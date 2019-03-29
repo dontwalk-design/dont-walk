@@ -1,4 +1,33 @@
 ---
 label: A Post
 hide_body: true
-fields: []
+display_field: post_title
+fields:
+- type: text
+  name: post_title
+  label: Post Title
+- type: datetime
+  name: date
+  label: Date
+  config:
+    date_format: DD/MM/YYYY
+    time_format: h:mm
+- type: file
+  name: post_image
+  label: Post Image
+  description: JPEG or PNG at 1024px x 640px
+- type: text
+  name: post_excerpt
+  label: Post Excerpt
+  description: Keep it short.
+- type: blocks
+  name: a_post
+  label: A Post
+  description: Construct the post using the available blocks
+  template_types:
+  - large-image
+  - heading
+  - subheading
+  - paragraphs
+  - two-images
+  - four-images
