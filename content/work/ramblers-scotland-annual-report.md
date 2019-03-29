@@ -18,8 +18,30 @@ a_project:
     image: "/uploads/ramblers-scotland-report.png"
 - template: paragraphs
   paragraphs: |-
-    Don't Walk helped to create the first ever professionally designed annual report for Ramblers Scotland members (2017–18).
+    Ramblers Scotland works to secure access, develop paths, protect the natural beauty of the countryside and promote walking for everyone. 
 
-    Project overview coming soon.
+    As part of the Ramblers Association since 1935 it's fair to say that Ramblers Scotland have a fair history to report on.
+
+    Don't Walk helped to create their first ever professionally designed annual report for members (2017–18).
+- template: heading
+  heading: '6,427'
+- template: paragraphs
+  paragraphs: Number of Ramblers Scotland members in 2018, for whom this document
+    was created.
+- template: heading
+  heading: Taking the scenic route
+- template: paragraphs
+  paragraphs: |-
+    This project faced a relatively short turnaround time including a hard deadline in the form of the Ramblers Scotland's AGM. As time was of the essence we quickly moved to establish where we could make the most graphic impact with the least disruption to draft content edits.
+
+    It was hugely beneficial to work within a predefined brand guide and build upon existing visual assets to give the report its own flavour.
+
+    Alongside typesetting written content we created a set of illustrations to accompany facts on each page of the report.
+- template: heading
+  heading: The result
+- template: paragraphs
+  paragraphs: Bringing graphic elements together, alongside photography and statistics,
+    created a distinctive document and lifted the content in a way it had never been
+    presented to members before.
 
 ---
