@@ -31,10 +31,9 @@ a_project:
 - template: heading
   heading: '6,427'
 - template: paragraphs
-  paragraphs: 'Number of Ramblers Scotland members in 2018, for whom this document
+  paragraphs: |-
+    Number of Ramblers Scotland members in 2018, for whom this document
     was created.
-
-'
 - template: large-image
   one_image:
   - template: image-with-caption
