@@ -1,6 +1,5 @@
 +++
 date = "2019-03-15T00:00:00+00:00"
-draft = true
 post_excerpt = "One year in, we’ve shared a few thoughts on our experience of setting up a design firm. From two designers who should really know better."
 post_image = "/uploads/365-days.jpg"
 post_title = "How to set up a design firm in 365 days."
