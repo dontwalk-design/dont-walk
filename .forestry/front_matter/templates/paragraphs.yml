@@ -1,6 +1,7 @@
 ---
 label: Paragraphs
 hide_body: true
+display_field: paragraphs
 fields:
 - type: textarea
   name: paragraphs
