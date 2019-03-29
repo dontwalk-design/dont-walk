@@ -1,4 +1,7 @@
 ---
 label: Section entry page
 hide_body: false
-fields: []
+fields:
+- type: text
+  name: description
+  label: Description
