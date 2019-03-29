@@ -5,6 +5,11 @@ post_excerpt = "One year in, we’ve shared a few thoughts on our experience of 
 post_image = "/uploads/365-days.jpg"
 post_title = "How to set up a design firm in 365 days."
 [[a_post]]
+template = "large-image"
+[[a_post.one_image]]
+image = "/uploads/365-days.jpg"
+template = "image-with-caption"
+[[a_post]]
 heading = "The background"
 template = "heading"
 [[a_post]]
