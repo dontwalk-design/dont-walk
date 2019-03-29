@@ -64,13 +64,13 @@ template = "paragraphs"
 heading = "We’ve not done our folio"
 template = "heading"
 [[a_post]]
-paragraphs = "But that’s not to say we haven’t been busy. In our first year we’ve been incredibly proud to have worked with, amongst others—\n\nScottish Mountain Rescue\n\nHistoric Scotland\n\nCodify\n\nThe Herald\n\nRamblers Scotland\n\nCepac\n\nUniversity of Glasgow\n\nWe’ve also been proud to work alongside—\n\nTwo illustrators\n\nTwo photographers\n\nTwo designers\n\nTwo copywriters\n\nOne software engineer\n\nand one Architect\n\n(Ben O’Brien, Claire Jones, Adam Robertson, Jonathan Addie, Connor Lyon, Paul Mullen, Emma Gordon, Jemma Beedie, Robert Simpson and David Crozier)."
+paragraphs = "But that’s not to say we haven’t been busy. In our first year we’ve been incredibly proud to have worked with, amongst others—\n\n* Scottish Mountain Rescue\n* Historic Scotland\n* Codify\n* The Herald\n* Ramblers Scotland\n* Cepac\n* University of Glasgow\n\nWe’ve also been proud to work alongside—\n\n* Two illustrators\n* Two photographers\n* Two designers\n* Two copywriters\n* One software engineer\n* and one Architect\n\n([Ben O’Brien](https://bentheillustrator.com/ \"Ben the Illustrator\"), [Claire Jones](https://www.instagram.com/hivernoir/ \"Hivernoir\"), [Adam Robertson](https://www.adamrobertsonphotography.com/ \"Adam Robertson Photography\"), [Jonathan Addie](http://www.jonathanaddie.com/ \"Jonathan Addie Photography\"), [Connor Lyon](https://www.connorlyon.co/ \"Connor Lyon\"), [Paul Mullen](http://www.paulmullen.co.uk/ \"Paul Mullen\"), [Emma Gordon](https://bydandcopywriting.com/ \"Bydand Copywriting\"), [Jemma Beedie](https://www.linkedin.com/in/jemma-beedie-75b08039/ \"Jemma Beedie\"), [Robert Simpson](https://www.linkedin.com/in/rob-simpson-44545a40/ \"Robert Simpson\") and [David Crozier](https://crozierarchitect.com/ \"David Crozier\"))."
 template = "paragraphs"
 [[a_post]]
 heading = "What we’re currently working on"
 template = "heading"
 [[a_post]]
-paragraphs = "A print project for a national charity\n\nA branding project for a software engineering company\n\nThe brand identity for a life saving charity\n\nRetail design for a university"
+paragraphs = "* A print project for a national charity\n* A branding project for a software engineering company\n* The brand identity for a life saving charity\n* Retail design for a university"
 template = "paragraphs"
 [[a_post]]
 heading = "Final thoughts"
