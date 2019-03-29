@@ -5,11 +5,11 @@
 
 	<section class="w-80 mw8-l center pv4">
 
-		<h1 class="ttu f3 f1-ns">Work—{{ .Params.project_title }}</h1>
+		<h1 class="ttu f3 f1-ns">Post—{{ .Params.post_title }}</h1>
 
 		{{/* {{ .Content }} */}}
 
-		{{ range .Params.a_project }}
+		{{ range .Params.a_post }}
 			{{ if eq "large-image" .template }}
 				{{ partial "blocks/largeImage" . }}
 			{{ end }}
@@ -32,5 +32,5 @@
 
 	</section>
 
-	{{ partial "relatedProjects.html" . }}
+	{{ partial "relatedPosts.html" . }}
 {{ end }}

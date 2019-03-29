@@ -7,22 +7,23 @@
 		{{ .Content }}
 
 		{{ range first 1 (where .Data.Pages "Section" "work").ByDate.Reverse }}
-		  {{ partial "latestProject.html" . }}
+		  {{ partial "projects/latestProject.html" . }}
 		{{ end }}
 
 		<div class="cf pt3-ns">
 		{{ range first 2 (after 1 (where .Data.Pages "Section" "work").ByDate.Reverse) }}
-		  {{ partial "twoProjects.html" . }}
+		  {{ partial "projects/twoProjects.html" . }}
 		{{ end }}
 
 		<div class="cf">
 		{{ range after 3 (where .Data.Pages "Section" "work").ByDate.Reverse }}
-			{{ partial "projectSummary.html" . }}
+			{{ partial "projects/fourProjects.html" . }}
 		{{ end }}
 		</div>
 
 	</section>
 
 	{{ partial "quoteRamblers.html" . }}
+	{{ partial "clients.html" . }}
 
 {{ end }}

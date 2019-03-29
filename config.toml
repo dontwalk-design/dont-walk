@@ -22,15 +22,15 @@ disableKinds = ["taxonomy","taxonomyTerm"]
     identifier = "people"
     url = "/#people"
   [[menu.main]]
-    name = "Clients"
-    weight = -130
-    identifier = "clients"
-    url = "/#clients"
-  [[menu.main]]
     name = "Skills"
     weight = -120
     identifier = "skills"
     url = "/#skills"
+  [[menu.main]]
+    name = "Blog"
+    weight = -115
+    identifier = "blog"
+    url = "/blog"
   [[menu.main]]
     name = "Contact"
     weight = -110
