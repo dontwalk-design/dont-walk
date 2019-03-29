@@ -1,8 +1,7 @@
 ---
 label: Section entry page
 hide_body: false
-display_field: description
 fields:
-- type: text
+- type: textarea
   name: description
   label: Description
