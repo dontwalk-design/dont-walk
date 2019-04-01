@@ -44,7 +44,7 @@ a_project:
   heading: Taking the scenic route
 - template: paragraphs
   paragraphs: |-
-    This project faced a relatively short turnaround time including a hard deadline in the form of the Ramblers Scotland's AGM. As time was of the essence we quickly moved to establish where we could make the most graphic impact with the least disruption to draft content edits.
+    This project faced a relatively short turnaround time including a hard deadline in the form of the Ramblers Scotland AGM. As time was of the essence we quickly moved to establish where we could make the most graphic impact with the least disruption to draft content edits.
 
     It was hugely beneficial to work within a predefined brand guide and build upon existing visual assets to give the report its own flavour.
 
