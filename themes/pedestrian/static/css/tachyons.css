@@ -1998,6 +1998,9 @@ code, .code { font-family: Consolas, monaco, monospace; }
 */
 /* Media Queries */
 .multi-column { -webkit-column-count: 3; /* Chrome, Safari, Opera */ /* Firefox */ column-count: 3; -webkit-column-width: 150px; column-width: 150px; }
+.nested-links a { color: #000; transition: color .15s ease-in; text-decoration: none; }
+.nested-links a:hover { color: rgba( 0, 0, 0, .4 ); transition: color .15s ease-in; }
+.nested-links a:focus { color: rgba( 0, 0, 0, .4 ); transition: color .15s ease-in; }
 /* Debugging */
 /*
 
