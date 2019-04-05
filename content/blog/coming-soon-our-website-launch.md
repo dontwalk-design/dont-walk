@@ -5,6 +5,12 @@ post_excerpt = "We haven't ordered cases of beer, ice sculptures, a band or even
 post_image = "/uploads/coming-soon.jpg"
 post_title = "Coming soon: Our website launch"
 [[a_post]]
+template = "large-image"
+[[a_post.one_image]]
+alt_text = "website under construction"
+image = "/uploads/under-construction.jpg"
+template = "image-with-caption"
+[[a_post]]
 paragraphs = "About that website launch party we're not going to have. We haven't ordered cases of beer, ice sculptures, a band or even a disco floor. We've invited precisely no-one. You see, we feel a little differently about launching a website.\n\nWe love launching our new website, we do it every time we make a change to it."
 template = "paragraphs"
 [[a_post]]
