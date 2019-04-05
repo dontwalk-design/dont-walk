@@ -1,6 +1,5 @@
 +++
 date = "2019-04-04T23:00:00+00:00"
-draft = true
 post_excerpt = "We haven't ordered cases of beer, ice sculptures, a band or even a disco floor. We've invited precisely no-one. We feel a little differently about launching a website."
 post_image = "/uploads/coming-soon.jpg"
 post_title = "Coming soon: Our website launch"
