@@ -6,7 +6,7 @@
 
     <div class="fl w-100 w-50-ns pr2-ns pb3 pb0-ns">
       <a class="link" href="{{ .Permalink }}">
-        <img src="{{ .Params.post_image | absURL }}" alt="{{ .Title }}">
+        <img src="{{ .Params.post_image | absURL }}" alt="{{ .Params.post_title }}">
       </a>
-      <p>{{ .Title }}</p>
+      <p>{{ .Params.post_title }}</p>
     </div>
