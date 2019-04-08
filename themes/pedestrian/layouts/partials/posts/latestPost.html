@@ -1,7 +1,7 @@
   <div class="pb3 pb0-ns">
     <div class="w-100">
       <a class="link" href="{{ .Permalink }}">
-        <img src="{{ .Params.post_image | relURL }}" alt="{{ .Title }}">
+        <img src="{{ .Params.post_image | relURL }}" alt="{{ .Params.post_title }}">
       </a>
       <h2>{{ .Params.post_title }}</h2>
       <p>{{ .Params.post_excerpt }}</p>

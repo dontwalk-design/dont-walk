@@ -1,8 +1,9 @@
   <div class="pb3 pb0-ns">
     <div class="w-100">
       <a class="link" href="{{ .Permalink }}">
-        <img src="{{ .Params.project_image | relURL }}" alt="{{ .Title }}">
+        <img src="{{ .Params.project_image | relURL }}" alt="{{ .Params.project_title }}">
       </a>
+      <h2>{{ .Params.project_title }}</h2>
       <p>{{ .Params.project_excerpt }}</p>
     </div>
   </div>
