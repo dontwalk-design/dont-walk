@@ -45,8 +45,9 @@ a_project:
 - template: subheading
   subheading: An immediate win
 - template: paragraphs
-  paragraphs: Within under two weeks of receiving the pack, one of the targeted prospects
-    had contacted Cepac to discuss a live project.
+  paragraphs: A number of receipients posted images of the pack on social media. Within
+    two weeks of receiving the pack, one of the targeted prospects had contacted Cepac
+    to discuss a live project.
 - template: large-image
   one_image:
   - template: image-with-caption
@@ -61,6 +62,7 @@ a_project:
     Working with Cepac’s in house team was vital in creating the product design and print of the mailer sample itself. Ben was in touch with Cepac from the very start of the project, which ensured his illustrations required very few amendments. SCA were more than happy to support our (no doubt difficult) requests for content and technical knowledge.
 
     We were happy to attend the Spirits Packaging Summit 2018 with Cepac and were excited and intrigued to witness the future possibilities for curved corrugated.
+testimonial: ''
 
 ---
 I am a project.
