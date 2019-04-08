@@ -1,7 +1,6 @@
 ---
 label: A Project
 hide_body: true
-display_field: project_title
 fields:
 - type: text
   name: project_title
@@ -32,6 +31,10 @@ fields:
   - paragraphs
   - two-images
   - four-images
+- type: include
+  template: select-a-testimonial
+  label: Testimonial Select
+  name: testimonial_select
 pages:
 - content/work/SMR-Brand-Building.md
 - content/work/cepac-spirits-promo-packaging.md
