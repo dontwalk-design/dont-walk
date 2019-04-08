@@ -1,7 +1,6 @@
 ---
 label: A Post
 hide_body: true
-display_field: post_title
 fields:
 - type: text
   name: post_title
@@ -12,6 +11,16 @@ fields:
   config:
     date_format: DD/MM/YYYY
     time_format: h:mm
+- type: select
+  name: post_author
+  config:
+    source:
+      type: simple
+    options:
+    - Stewart Ainslie
+    - Mark McAulay
+  label: Post Author
+  description: Whodunnit?
 - type: file
   name: post_image
   label: Post Image
