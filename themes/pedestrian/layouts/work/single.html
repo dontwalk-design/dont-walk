@@ -32,5 +32,11 @@
 
 	</section>
 	{{ partial "quoteRamblers.html" . }}
+	<hr>
+	{{ with .Site.GetPages "page" .Params.testimonial }}
+	  <h2>{{ .Title }}</h2>
+	  <p>{{ .Content }}</p>
+	{{ end }}
+	<hr>
 	{{ partial "relatedProjects.html" . }}
 {{ end }}
