@@ -45,9 +45,9 @@ a_project:
 - template: subheading
   subheading: An immediate win
 - template: paragraphs
-  paragraphs: A number of recipients posted images of the pack on social media. Within
+  paragraphs: "A number of recipients posted images of the pack on social media.   \nWithin
     two weeks of receiving the pack, one of the targeted prospects had contacted Cepac
-    to discuss a live project.
+    to discuss a live project."
 - template: large-image
   one_image:
   - template: image-with-caption
