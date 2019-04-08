@@ -33,6 +33,11 @@ a_project:
     Cepac promoted Arcwise alongside a presentation on the future of corrugate at the Spirits Packaging Summit 2018. This promotional mailer served as an introduction of Cepac and Arcwise to UK design agencies and as an invite to the event itself.
 
     We collaborated with illustrator [Ben O’Brien](http://Ben%20the%20Illustrator%20https://bentheillustrator.com/), an industry veteran, to create illustrations of spirits bottles overlaid on curved shapes. Ben’s style lent itself well to corrugate print processes and we were confident in his ability to deliver on brief, on time and on budget.
+- template: large-image
+  one_image:
+  - template: image-with-caption
+    image: "/uploads/cepace-arcwise-mailer-2018-web-1.png"
+    alt_text: Cepac, Ben O'Brien box with Arcwise round corner technology.
 - template: subheading
   subheading: 80+
 - template: paragraphs
@@ -42,11 +47,11 @@ a_project:
 - template: paragraphs
   paragraphs: Within under two weeks of receiving the pack, one of the targeted prospects
     had contacted Cepac to discuss a live project.
-- template: paragraphs
-- template: two-images
-  two_images:
+- template: large-image
+  one_image:
   - template: image-with-caption
-  - template: image-with-caption
+    image: "/uploads/cepace-arcwise-inserts-2018-web-2.png"
+    caption: Cepac case study inserts.
 - template: subheading
   subheading: Your creative partner
 - template: paragraphs
