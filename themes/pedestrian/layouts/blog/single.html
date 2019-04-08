@@ -9,6 +9,8 @@
 
 		{{/* {{ .Content }} */}}
 
+		<p>{{ .Params.post_author }}</p>
+
 		{{ range .Params.a_post }}
 			{{ if eq "large-image" .template }}
 				{{ partial "blocks/largeImage" . }}
