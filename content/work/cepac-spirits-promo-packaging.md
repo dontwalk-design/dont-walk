@@ -52,7 +52,8 @@ a_project:
   one_image:
   - template: image-with-caption
     image: "/uploads/cepace-arcwise-inserts-2018-web-2.png"
-    caption: Cepac case study inserts.
+    caption: ''
+    alt_text: Cepac case study inserts.
 - template: subheading
   subheading: Your creative partner
 - template: paragraphs
