@@ -5,7 +5,7 @@
 
 	<section class="w-80 mw8-l center pv4">
 
-		<h1 class="ttu f3 f1-ns">Work—{{ .Params.project_title }}</h1>
+		<h1 class="ttu f3 f1-ns">Work—<br/>{{ .Params.project_title }}</h1>
 
 		{{/* {{ .Content }} */}}
 
@@ -32,11 +32,12 @@
 
 	</section>
 	{{ partial "quoteRamblers.html" . }}
-	{{/* <hr>
-	{{ with .Site.GetPages "page" .Params.testimonial }}
+	{{/* <p>~~~</p>
+	{{ .Params.testimonial }}
+	{{ with (.Site.GetPages "page") .Params.testimonial }}
 	  <h2>{{ .Title }}</h2>
 	  <p>{{ .Content }}</p>
 	{{ end }}
-	<hr> */}}
+	<p>~~~</p> */}}
 	{{ partial "relatedProjects.html" . }}
 {{ end }}
