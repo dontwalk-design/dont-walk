@@ -1,4 +1,13 @@
 ---
 label: Select a testimonial
 hide_body: true
-fields: []
+display_field: testimonial
+fields:
+- type: select
+  name: testimonial
+  config:
+    source:
+      type: pages
+      section: testimonials
+  label: Testimonial
+  description: The testimonial to display on this page
