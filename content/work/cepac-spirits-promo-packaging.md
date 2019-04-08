@@ -19,9 +19,9 @@ a_project:
     alt_text: Promotional packaging for Cepac
 - template: paragraphs
   paragraphs: |-
-    **Cepac are the UK’s leading independent corrugated packaging company.**
+    Cepac are the UK’s leading independent corrugated packaging company.
 
-    **Over the last 20 years they have taken pride in their pioneering spirit in state-of-the-art corrugate packaging. Like ourselves, Cepac believe collaboration is key to delivering results.**
+    Over the last 20 years they have taken pride in their pioneering spirit in state-of-the-art corrugate packaging. Like ourselves, Cepac believe collaboration is key to delivering results.
 
     We were commissioned to create a sample pack targeting UK design agencies promoting quality packaging for the spirits industry.
 - template: subheading
