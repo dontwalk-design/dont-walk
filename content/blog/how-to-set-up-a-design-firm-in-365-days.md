@@ -56,7 +56,7 @@ alt_text = "Quote"
 image = "/uploads/looks-green.jpg"
 template = "image-with-caption"
 [[a_post]]
-paragraphs = "People have written entire books on colour theory. So it should come as no surprise to hear we did not take this task lightly.\n\nIt would easy to be flippant about the importance of colour in branding. Just because we’re not all the size of Cadbury doesn’t mean we don’t treat ourselves, and our clients with as much reverence.\n\nIf you’re interested, these are our colour values for ‘shed yellow’:\n\n* Print (Spot colour): Pantone 102 C \n* Print (Process colour): C0 M8 Y79 Y0\n* Screen: R255 G236 B45 #ffec2d\n* Paper stock: Colorplan Factory Yellow\n\nAll this without a mention of our logo*."
+paragraphs = "People have written entire books on colour theory. So it should come as no surprise to hear we did not take this task lightly.\n\nIt would easy to be flippant about the importance of colour in branding. Just because we’re not all the size of [Cadbury](https://www.independent.co.uk/news/business/news/cadbury-wins-right-to-the-colour-purple-6262717.html) doesn’t mean we don’t treat ourselves, and our clients with as much reverence.\n\nIf you’re interested, these are our colour values for ‘shed yellow’:\n\n* Print (Spot colour): Pantone 102 C\n* Print (Process colour): C0 M8 Y79 Y0\n* Screen: R255 G236 B45 #ffec2d\n* Paper stock: Colorplan Factory Yellow\n\nAll this without a mention of our logo*."
 template = "paragraphs"
 [[a_post]]
 heading = "A few words on done"
