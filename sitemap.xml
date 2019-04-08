@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dont-walk.com/testimonials/stevemoss-arcwise1/</loc>
+    <lastmod>2019-04-08T10:46:18+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dont-walk.com/blog/coming-soon-our-website-launch/</loc>
     <lastmod>2019-04-04T23:00:00+00:00</lastmod>
   </url>
@@ -45,6 +50,12 @@
   <url>
     <loc>https://dont-walk.com/work/</loc>
     <lastmod>2019-03-05T20:20:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dont-walk.com/testimonials/</loc>
+    <lastmod>2019-04-08T10:46:18+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
