@@ -18,8 +18,12 @@ a_project:
     caption: ''
     image: "/uploads/SMR-brand-building.png"
     template: image-with-caption
-- paragraphs: "Don’t Walk have been providing graphic design services and consultancy
-    to Scottish Mountain Rescue since 2017. \n\nProject overview coming soon…"
+- paragraphs: |-
+    Scottish Mountain Rescue (SMR) is a representative and coordinating body for member Mountain Rescue Teams (MRTs) in Scotland. Their membership includes more than 850 volunteers between 23 member MRTs. In addition SMR also serves three Police Scotland MRTs and one RAF MRT.
+
+    MRT members are always on call; any day, any hour, any weather.
+
+    Don’t Walk have been providing graphic design services and consultancy to Scottish Mountain Rescue since 2017.
   template: paragraphs
 
 ---
