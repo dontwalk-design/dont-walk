@@ -9,7 +9,7 @@
 
 		{{/* {{ .Content }} */}}
 
-		<p>{{ .Params.post_author }}</p>
+		<p>By {{ .Params.post_author }} on {{ .Date.Format "02.01.2006" }}</p>
 
 		{{ range .Params.a_post }}
 			{{ if eq "large-image" .template }}
