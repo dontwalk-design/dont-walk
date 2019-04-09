@@ -7,7 +7,7 @@ images:
 - images/work/HES/HES.png
 relateMe: project
 projectImage: images/work/HES/HES.png
-project_title: 'Historic Environment Scotland: Exhibition'
+project_title: Exhibition
 project_image: "/uploads/HES.png"
 project_excerpt: We created exhibition and interpretation for Historic Scotland’s
   Engine Shed. Summer Skills featured photography by Daniel Overturf and documented
@@ -23,6 +23,7 @@ a_project:
     Shed. Summer Skills featured photography by Daniel Overturf and documented the
     broad scope of work taken on by HES. Project overview coming soon.
 testimonial: ''
+project_client: Historic Environment Scotland
 
 ---
 I am a project. There are many like me but i am unique.

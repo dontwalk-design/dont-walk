@@ -6,7 +6,7 @@ date: 2019-03-25 23:04:07 +0000
 images:
 - images/work/cepac/cepac.png
 relateMe: project
-project_title: 'Cepac: Shapely Packs for Spirits'
+project_title: Shapely Packs for Spirits
 project_image: "/uploads/cepac.png"
 project_excerpt: Cepac are the UK's leading independent corrugated packaging company.
   We were commissioned to create a sample pack targeting UK design agencies promoting
@@ -65,6 +65,7 @@ a_project:
 
     We were happy to attend the Spirits Packaging Summit 2018 with Cepac and were excited and intrigued to witness the future possibilities for curved corrugated.
 testimonial: ''
+project_client: Cepac
 
 ---
 I am a project.
