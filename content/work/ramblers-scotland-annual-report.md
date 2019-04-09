@@ -64,5 +64,6 @@ a_project:
     created a distinctive document and lifted the content in a way it had never been
     presented to members before.
 testimonial: testimonials/ramblers-annual-report-2018.md
+project_client: Ramblers Scotland
 
 ---
