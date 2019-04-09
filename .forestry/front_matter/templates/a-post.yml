@@ -44,7 +44,7 @@ fields:
   name: relateMe
   label: RelateMe
   hidden: true
-  default: project
+  default: post
 pages:
 - content/blog/coming-soon-our-website-launch.md
 - content/blog/how-to-set-up-a-design-firm-in-365-days.md
