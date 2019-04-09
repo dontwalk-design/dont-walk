@@ -1,3 +1,8 @@
 <div class="f5 f4-m f3-l lh-copy measure-wide nested-links">
-{{ .paragraphs | markdownify }}
+  {{ $markdown := .paragraphs | markdownify }}
+  {{ if not ( strings.Contains $markdown "<p>" ) }}
+      <p>{{ $markdown }}</p>
+  {{ else }}
+      {{ $markdown }}
+  {{ end }}
 </div>
