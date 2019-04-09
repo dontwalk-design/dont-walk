@@ -1,33 +1,27 @@
 {{ define "main" }}
-
 	<section class="w-80 mw8-l center pv4">
-
 		<h1 class="ttu f3 f1-ns">Post—<br/>{{ .Params.post_title }}</h1>
-
 		<p>By {{ .Params.post_author }} on {{ .Date.Format "02.01.2006" }}</p>
-
 		{{ range .Params.a_post }}
 			{{ if eq "large-image" .template }}
 				{{ partial "blocks/largeImage" . }}
 			{{ end }}
 			{{ if eq "heading" .template }}
-	        {{ partial "blocks/heading" . }}
+	      {{ partial "blocks/heading" . }}
 	    {{ end }}
 			{{ if eq "subheading" .template }}
-	        {{ partial "blocks/subheading" . }}
+	      {{ partial "blocks/subheading" . }}
 	    {{ end }}
 			{{ if eq "paragraphs" .template }}
-	        {{ partial "blocks/paragraphs" . }}
+	      {{ partial "blocks/paragraphs" . }}
 	    {{ end }}
 			{{ if eq "two-images" .template }}
-	        {{ partial "blocks/twoImages" . }}
+	      {{ partial "blocks/twoImages" . }}
 	    {{ end }}
 			{{ if eq "four-images" .template }}
-	        {{ partial "blocks/fourImages" . }}
+	      {{ partial "blocks/fourImages" . }}
 	    {{ end }}
-	{{ end }}
-
+		{{ end }}
 	</section>
-
 	{{ partial "relatedPosts.html" . }}
 {{ end }}

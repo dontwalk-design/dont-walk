@@ -1,13 +1,11 @@
 {{ define "main" }}
 
 	<section class="w-80 mw8-l center pv4">
-
 		<h1 class="ttu f3 f1-ns">
 			Work—<br/>
 			{{ .Params.project_client }}:<br/>
 			{{ .Params.project_title }}
 		</h1>
-
 		{{ range .Params.a_project }}
 			{{ if eq "large-image" .template }}
 				{{ partial "blocks/largeImage" . }}
@@ -28,7 +26,6 @@
 	        {{ partial "blocks/fourImages" . }}
 	    {{ end }}
 	{{ end }}
-
 	</section>
 	{{ partial "quoteRamblers.html" . }}
 	{{ partial "relatedProjects.html" . }}
