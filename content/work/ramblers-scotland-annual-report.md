@@ -5,7 +5,7 @@ date: 2019-03-25 23:06:07 +0000
 images: []
 relateMe: project
 projectImage: images/work/SMR/SMR-brand-building.png
-project_title: 'Ramblers Scotland: Annual Report 2017–18'
+project_title: Annual Report 2017–18
 project_image: "/uploads/ramblers-scotland-report.png"
 project_excerpt: Don't Walk helped to create the first ever professionally designed
   annual report for Ramblers Scotland members (2017/18).
