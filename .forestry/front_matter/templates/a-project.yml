@@ -3,6 +3,10 @@ label: A Project
 hide_body: true
 fields:
 - type: text
+  name: project_client
+  label: Project Client
+  description: 'The : will be added for you'
+- type: text
   name: project_title
   label: Project Title
 - type: datetime
