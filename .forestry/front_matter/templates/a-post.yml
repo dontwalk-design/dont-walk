@@ -40,6 +40,11 @@ fields:
   - paragraphs
   - two-images
   - four-images
+- type: text
+  name: relateMe
+  label: RelateMe
+  hidden: true
+  default: project
 pages:
 - content/blog/coming-soon-our-website-launch.md
 - content/blog/how-to-set-up-a-design-firm-in-365-days.md
