@@ -1,13 +1,12 @@
 {{ define "main" }}
 
-	{{/* {{ .Title }}
-	{{ .Date.Format "02.01.2006" }}*/}}
-
 	<section class="w-80 mw8-l center pv4">
 
-		<h1 class="ttu f3 f1-ns">Work—<br/>{{ .Params.project_title }}</h1>
-
-		{{/* {{ .Content }} */}}
+		<h1 class="ttu f3 f1-ns">
+			Work—<br/>
+			{{ .Params.project_client }}:<br/>
+			{{ .Params.project_title }}
+		</h1>
 
 		{{ range .Params.a_project }}
 			{{ if eq "large-image" .template }}
@@ -32,12 +31,5 @@
 
 	</section>
 	{{ partial "quoteRamblers.html" . }}
-	{{/* <p>~~~</p>
-	{{ .Params.testimonial }}
-	{{ with (.Site.GetPages "page") .Params.testimonial }}
-	  <h2>{{ .Title }}</h2>
-	  <p>{{ .Content }}</p>
-	{{ end }}
-	<p>~~~</p> */}}
 	{{ partial "relatedProjects.html" . }}
 {{ end }}
