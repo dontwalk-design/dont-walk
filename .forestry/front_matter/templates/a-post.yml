@@ -45,6 +45,8 @@ fields:
   label: RelateMe
   hidden: true
   default: post
+  config:
+    required: true
 pages:
 - content/blog/coming-soon-our-website-launch.md
 - content/blog/how-to-set-up-a-design-firm-in-365-days.md
