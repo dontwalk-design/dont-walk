@@ -4,6 +4,7 @@ post_author = "Mark McAulay"
 post_excerpt = "We haven't ordered cases of beer, ice sculptures, a band or even a disco floor. We've invited precisely no-one. We feel a little differently about launching a website."
 post_image = "/uploads/coming-soon.jpg"
 post_title = "Coming soon: Our website launch"
+relateMe = "post"
 [[a_post]]
 template = "large-image"
 [[a_post.one_image]]
