@@ -18,7 +18,7 @@
 
 		<div class="cf">
 		{{ range after 3 (where .Data.Pages "Section" "work").ByDate.Reverse }}
-			{{ partial "projects/fourProjects.html" . }}
+			{{ partial "projects/twoProjects.html" . }}
 		{{ end }}
 		</div>
 
