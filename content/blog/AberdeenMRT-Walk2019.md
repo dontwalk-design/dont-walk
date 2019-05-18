@@ -19,7 +19,7 @@ template = "heading"
 subheading = "Aberdeen Mountain Rescue Team (AMRT) are a life saving charity who's volunteers operate in the north East of Scotland."
 template = "subheading"
 [[a_post]]
-paragraphs = "On June 8th 2019 well foolishly disregard our own company name and join them for their Sponsored Walk.\n\nIn the meantime you might see us making a bit of noise for them on social media...\n\nSign up here: [https://amrt.org.uk/Sponsored-Walks](https://amrt.org.uk/Sponsored-Walks \"https://amrt.org.uk/Sponsored-Walks\")\n\nOr donate to us here: [https://uk.virginmoneygiving.com/fundraiser-portal/fundraiserPage?pageId=1055331](https://uk.virginmoneygiving.com/fundraiser-portal/fundraiserPage?pageId=1055331 \"https://uk.virginmoneygiving.com/fundraiser-portal/fundraiserPage?pageId=1055331\")\n\nThanks in advance!\n\nStew"
+paragraphs = "On June 8th 2019 we will foolishly disregard our own company name and join them for their Sponsored Walk.\n\nIn the meantime you might see us making a bit of noise for them on social media...\n\nSign up here: [https://amrt.org.uk/Sponsored-Walks](https://amrt.org.uk/Sponsored-Walks \"https://amrt.org.uk/Sponsored-Walks\")\n\nOr donate to us here: [https://uk.virginmoneygiving.com/fundraiser-portal/fundraiserPage?pageId=1055331](https://uk.virginmoneygiving.com/fundraiser-portal/fundraiserPage?pageId=1055331 \"https://uk.virginmoneygiving.com/fundraiser-portal/fundraiserPage?pageId=1055331\")\n\nThanks in advance!\n\nStew"
 template = "paragraphs"
 
 +++
