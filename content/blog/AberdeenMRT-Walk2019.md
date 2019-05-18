@@ -6,6 +6,13 @@ post_image = "/uploads/DontWalk-AMRT-Virgin-Money-Map-V1.png"
 post_title = "Aberdeen MRT - Sponsored Walk 2019"
 relateMe = "post"
 [[a_post]]
+template = "large-image"
+[[a_post.one_image]]
+alt_text = "Don't Walk are a design agency walking in aid of Aberdeen Mountain Rescue Team"
+caption = ""
+image = "/uploads/DontWalk-AMRT-Virgin-Money-Map-V1.png"
+template = "image-with-caption"
+[[a_post]]
 heading = "Walking miles in their boots"
 template = "heading"
 [[a_post]]
