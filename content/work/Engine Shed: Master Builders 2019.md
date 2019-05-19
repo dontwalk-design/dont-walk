@@ -19,5 +19,12 @@ template = "heading"
 [[a_project]]
 paragraphs = "We helped their outreach team create supporting materials for the project. \n\nAimed at young people (from seven years and older) this logbook encourages kids to record their progress working with traditional materials. Once a guest has collected five stamps, awarded by attending workshops at the venue, they are awarded with a certificate."
 template = "paragraphs"
+[[a_project]]
+template = "large-image"
+[[a_project.one_image]]
+alt_text = "Image of a logbook cover and example page. This is where kids collect their stamps."
+caption = ""
+image = "/uploads/EngineShed-MasterBuilderLogbook2019-1024x640_2019.png"
+template = "image-with-caption"
 
 +++
