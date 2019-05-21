@@ -1,6 +1,5 @@
 +++
 date = "2019-05-19T23:00:00+00:00"
-draft = true
 project_client = "Engine Shed"
 project_excerpt = "Over summer 2019 the Engine Shed are running a Master Builder programme. We helped create support materials."
 project_image = "/uploads/EngineShed-MasterBuilders-1024x640_1.png"
