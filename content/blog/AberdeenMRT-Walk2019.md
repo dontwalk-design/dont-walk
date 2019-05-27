@@ -26,7 +26,7 @@ template = "large-image"
 [[a_post.one_image]]
 alt_text = "A picture of a walking boot and a wallet. Illustrated in an innocent, child-like, style. They're meant to look like they are drawn with rope."
 caption = ""
-image = "/uploads/DontWalkinourboots-Aberdeen-MRT-1.jpg"
+image = "/uploads/DontWalkinourboots-Aberdeen-MRT-1-1.jpg"
 template = "image-with-caption"
 
 +++
