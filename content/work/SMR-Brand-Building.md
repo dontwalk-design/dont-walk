@@ -156,9 +156,9 @@ a_project:
   subheading: Parliamentary  Recognition
 - template: paragraphs
   paragraphs: We created a newspaper version of the review specifically for members
-    of both UK and Scottish parliaments. This allows ministers to consume information
-    at a glance and the tabloid format hoped to encourage more engagement with SMR.
-    The document accompanied a parliamentary reception at Holyrood in 2017.
+    of both UK and Scottish parliaments. This allows elected representatives to consume
+    information at a glance and the tabloid format hoped to encourage more engagement
+    with SMR. The document accompanied a parliamentary reception at Holyrood.
 - template: large-image
   one_image:
   - template: image-with-caption
