@@ -19,7 +19,7 @@ a_project:
     image: "/uploads/SMR-brand-building.png"
     template: image-with-caption
 - paragraphs: |-
-    Scottish Mountain Rescue (SMR) is a representative and coordinating body for member Mountain Rescue Teams (MRTs) in Scotland. Their membership includes more than 850 volunteers between 23 member MRTs. In addition SMR also serves three Police Scotland MRTs and one RAF MRT.
+    Scottish Mountain Rescue (SMR) is a representative and coordinating body for member Mountain Rescue Teams (MRTs) in Scotland. Their membership includes more than 850 volunteers between 24 member MRTs. In addition SMR also serves three Police Scotland MRTs and one RAF MRT.
 
     MRT members are always on call; any day, any hour, any weather.
 
