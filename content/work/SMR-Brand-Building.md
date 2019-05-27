@@ -144,7 +144,7 @@ a_project:
 - template: subheading
   subheading: Increased support
 - template: paragraphs
-  paragraphs: Off the back of our work on the SMR 2016 Review Tiso offered to support
+  paragraphs: Following publication of the SMR Review 2016 Tiso offered to support
     print costs for the 2017 publication.
 - template: large-image
   one_image:
