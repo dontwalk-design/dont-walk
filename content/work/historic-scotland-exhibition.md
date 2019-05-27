@@ -2,7 +2,7 @@
 title: 'Historic Scotland: Exhibition'
 description: Don't Walk created exhibition and interpretation for Historic Scotland’s
   Engine Shed. Summer Skills documented the work taken on by HES.
-date: 2019-03-25 23:03:07 +0000
+date: 2019-04-06T22:03:07+00:00
 images:
 - images/work/HES/HES.png
 relateMe: project
@@ -18,6 +18,7 @@ a_project:
   - template: image-with-caption
     image: "/uploads/HES.png"
     alt_text: Exhibition for Historic Scotland
+    caption: ''
 - template: paragraphs
   paragraphs: We created exhibition and interpretation for Historic Scotland’s Engine
     Shed. Summer Skills featured photography by Daniel Overturf and documented the
