@@ -118,7 +118,7 @@ a_project:
   paragraphs: |-
     Variations on SMR’s logo appear on their volunteers clothing, teams vehicle livery, supporters kit, fundraising materials and merchandise across Scotland.
 
-    Their logo has good brand recognition and heritage. Graphically it predated the organisations name (which changed from the Mountain Rescue Committee of Scotland in 2014). Instead of reinventing the wheel at great expense the logo was redrawn to improve legibility and assist with production. This gives more control on type sizes, reproduces better in print and assists with manufacturing and fabrication requirements.
+    Their logo has good brand recognition and heritage. Graphically it predated the organisation's name (which changed from the Mountain Rescue Committee of Scotland in 2014). Instead of reinventing the wheel at great expense the logo was redrawn to improve legibility and assist with production. This gives more control on type sizes, reproduces better in print and assists with manufacturing and fabrication requirements.
 - template: large-image
   one_image:
   - template: image-with-caption
