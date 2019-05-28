@@ -186,6 +186,6 @@ a_project:
 
     The brand work we have begun is only the start of the story and we look forward to developing our relationship with SMR and their member teams.
 project_client: Scottish Mountain Rescue
-testimonial: ''
+testimonial: testimonials/AndyRockall-SMR.md
 
 ---
