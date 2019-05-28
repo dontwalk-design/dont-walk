@@ -2,7 +2,7 @@
 title: 'Cepac: Spirits Promo Packaging'
 description: Don't Walk designed and co-ordinated a print campaign to introduce the
   Arcwise packaging system.
-date: 2019-03-25 23:04:07 +0000
+date: 2019-03-25T23:04:07.000+00:00
 images:
 - images/work/cepac/cepac.png
 relateMe: project
@@ -17,6 +17,7 @@ a_project:
   - template: image-with-caption
     image: "/uploads/cepac.png"
     alt_text: Promotional packaging for Cepac
+    caption: ''
 - template: paragraphs
   paragraphs: |-
     Cepac are the UK’s leading independent corrugated packaging company.
@@ -38,6 +39,7 @@ a_project:
   - template: image-with-caption
     image: "/uploads/cepace-arcwise-mailer-2018-web-1.png"
     alt_text: Cepac, Ben O'Brien box with Arcwise round corner technology.
+    caption: ''
 - template: subheading
   subheading: 80+
 - template: paragraphs
@@ -64,7 +66,7 @@ a_project:
     Working with Cepac’s in house team was vital in creating the product design and print of the mailer sample itself. Ben was in touch with Cepac from the very start of the project, which ensured his illustrations required very few amendments. SCA were more than happy to support our (no doubt difficult) requests for content and technical knowledge.
 
     We were happy to attend the Spirits Packaging Summit 2018 with Cepac and were excited and intrigued to witness the future possibilities for curved corrugated.
-testimonial: ''
+testimonial: testimonials/SteveMoss-Arcwise1.md
 project_client: Cepac
 
 ---
