@@ -1,8 +1,17 @@
   <article class="bg-yellow">
     <div class="w-80 mw8-l center pv5 tc">
-			<img src="images/quote-titles/expert-guidance.png" alt="Expert guidance and creative flair" class="db" />
+			{{/* <img src="images/quote-titles/expert-guidance.png" alt="Expert guidance and creative flair" class="db" /> */}}
 			<blockquote class="db center f5 f4-m f3-l lh-copy-ns measure-wide">
 			{{ .Content }}
+      <h1>{{ .Params.testimonial_title }}</h1>
+        {{ range .Params.a_testimonial }}
+          {{ if eq "paragraphs" .template }}
+              {{ partial "blocks/paragraphs" . }}
+          {{ end }}
+          {{/* {{ if eq "cite" .template }}
+              {{ partial "blocks/subheading" . }}
+          {{ end }} */}}
+        {{ end }}
 			</blockquote>
     </div>
 	</article>
