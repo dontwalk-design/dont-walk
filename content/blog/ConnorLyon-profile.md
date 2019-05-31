@@ -16,7 +16,7 @@ template = "image-with-caption"
 heading = "The trouble with Connor"
 template = "heading"
 [[a_post]]
-subheading = "Is that he won't take no for an answer. And we love him for it."
+subheading = "Is that he won't take no for an answer—and we love him for it."
 template = "subheading"
 [[a_post]]
 paragraphs = "### Who?\n\nAn ambitious designer with around three years of industry experience and the confidence to match. Connor is a creative wizz with a passion for type and an eye for layouts. Looks can be deceiving, in real life he isn’t made of pixels.\n\nWhere?\n\nHailing from Wales, you can usually find Connor up a hill (no valleys comments here). But right now \\[May 2019\\] he is working remotely from Berlin.\n\n### What?\n\nDesigner, director and creative type. He’s just as comfortable working on editorial projects and exhibition graphics as he is creating logos or sketching campaign concepts. We have collaborated together on projects for our clients; Scottish Mountain Rescue, Codify and Historic Environment Scotland.\n\n### Why?\n\nYou remember we said Connor won’t take no for an answer? What we mean to say is that Connor makes things happen. We work with him because he told us we needed him. And he was right!"
