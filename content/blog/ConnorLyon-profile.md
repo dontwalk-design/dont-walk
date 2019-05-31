@@ -9,7 +9,7 @@ relateMe = "post"
 template = "large-image"
 [[a_post.one_image]]
 alt_text = "A very pixilated photo of Connor."
-caption = "Connor had no input in the creation of this image..."
+caption = "Connor had no input in the creation of this image."
 image = "/uploads/Connor-Lyon-Pixels-NOTITLE-1024x640_2019.png"
 template = "image-with-caption"
 [[a_post]]
