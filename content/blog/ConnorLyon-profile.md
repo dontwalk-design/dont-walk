@@ -29,7 +29,7 @@ caption = ""
 image = "/uploads/IMG_5902.jpg"
 template = "image-with-caption"
 [[a_post]]
-paragraphs = "### How\n\nWe can put you in touch with Connor or you can follow him on the usual channels. He likes a chat. You have been warned…\n\nInstagram: [connor_lyon_](https://www.instagram.com/connor_lyon_/)\n\nLinkedIn: [Connor Lyon](https://www.linkedin.com/in/connorlyon/)\n\nHis website: [connorlyon.co](https://www.connorlyon.co/)\n\n> “I love to work with troublemakers & visionaries. I’m not sure which Stew and Mark are yet…”  \n> —Connor Lyon\n\nIf you want to work with us, or have a project you need a hand with, just drop me a message: stewart@dont-walk.com"
+paragraphs = "### How\n\nWe can put you in touch with Connor or you can follow him on the usual channels. He likes a chat. You have been warned…\n\nInstagram: [connor lyon](https://instagram.com/connor_lyon_/)\n\nLinkedIn: [Connor Lyon](https://www.linkedin.com/in/connorlyon/)\n\nHis website: [connorlyon.co](https://www.connorlyon.co/)\n\n> “I love to work with troublemakers & visionaries. I’m not sure which Stew and Mark are yet…”  \n> —Connor Lyon\n\nIf you want to work with us, or have a project you need a hand with, just drop me a message: stewart@dont-walk.com"
 template = "paragraphs"
 
 +++
