@@ -26,5 +26,12 @@ alt_text = "Exhibition panel graphics on display"
 caption = ""
 image = "/uploads/AtlanticWalls-CaseStudy-Exhibition-1024x640_2019.jpg"
 template = "image-with-caption"
+[[a_project]]
+template = "large-image"
+[[a_project.one_image]]
+alt_text = "Tony Pollard at the Atlantic Wall on Sheriffmuir"
+caption = ""
+image = "/uploads/AtlanticWalls-CaseStudy-Tony-1024x640_2019.jpg"
+template = "image-with-caption"
 
 +++
