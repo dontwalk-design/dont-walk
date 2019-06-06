@@ -10,7 +10,7 @@ testimonial = ""
 subheading = "Above the Scottish town of Dunblane lies a section of the Atlantic Wall used for training exercises by the allies on the run up to D-Day."
 template = "subheading"
 [[a_project]]
-paragraphs = "There is much to learn about these walls and Dunblane Museum with their patron Prof. Tony Pollard set out to bring more attention to these 'hidden gems' in a collaborative project which kicked off during Spring 2014.\n\nBoth Mark and I worked on a variety of materials to support this project including—\n\n* An exhibition\n* Video\n* Booklet\n* D-Day anniversary event\n* Identity\n* Website\n\nToday (June 6th 2019) marks the 75th anniversary of the Normandy landings. It seemed like a fitting time to promote this Heritage Lottery Funded project once more.\n\nView the project at [atlanticwalls.uk]()"
+paragraphs = "There is much to learn about these walls and Dunblane Museum with their patron Prof. Tony Pollard set out to bring more attention to these 'hidden gems' in a collaborative project which kicked off during Spring 2014.\n\nBoth Mark and I worked on a variety of materials to support this project including—\n\n* An exhibition\n* Video\n* Booklet\n* D-Day anniversary event\n* Identity\n* Website\n\nToday (June 6th 2019) marks the 75th anniversary of the Normandy landings. It seemed like a fitting time to promote this Heritage Lottery Funded project once more.\n\nView the project at [atlanticwalls.uk](http://www.atlanticwalls.uk \"Atlantic Walls\")"
 template = "paragraphs"
 
 +++
