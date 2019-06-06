@@ -31,7 +31,7 @@ template = "large-image"
 [[a_project.one_image]]
 alt_text = ""
 caption = ""
-image = "/uploads/AtlanticWalls-CaseStudy-Tony-1024x640_2019-1.jpg"
+image = "/uploads/AtlanticWalls-CaseStudy-Tony-1024x640_2019.jpg"
 template = "image-with-caption"
 
 +++
