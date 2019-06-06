@@ -1,5 +1,5 @@
 +++
-date = "2019-06-05T23:00:00+00:00"
+date = "2019-06-04T23:00:00+00:00"
 project_client = "Dunblane Museum"
 project_excerpt = "The Atlantic Walls project is a collaborative research project between Dunblane Museum and Professor Tony Pollard."
 project_image = "/uploads/AtlanticWalls-CaseStudy-Cover-1024x640_2019.jpg"
