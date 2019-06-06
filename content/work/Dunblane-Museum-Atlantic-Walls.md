@@ -29,9 +29,9 @@ template = "image-with-caption"
 [[a_project]]
 template = "large-image"
 [[a_project.one_image]]
-alt_text = "Tony Pollard at the Atlantic Wall on Sheriffmuir"
+alt_text = ""
 caption = ""
-image = "/uploads/AtlanticWalls-CaseStudy-Tony-1024x640_2019.jpg"
+image = "/uploads/AtlanticWalls-CaseStudy-Tony-1024x640_2019-1.jpg"
 template = "image-with-caption"
 
 +++
