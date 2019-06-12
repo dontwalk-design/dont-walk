@@ -45,9 +45,10 @@ fields:
   hidden: true
   default: project
 pages:
-- content/work/engine-shed-master-builders-2019.md
-- content/work/historic-scotland-exhibition.md
+- content/work/aberdeenmrt-sponsored-walk-2019.md
 - content/work/Dunblane-Museum-Atlantic-Walls.md
-- content/work/cepac-spirits-promo-packaging.md
-- content/work/ramblers-scotland-annual-report.md
+- content/work/historic-scotland-exhibition.md
+- content/work/engine-shed-master-builders-2019.md
 - content/work/SMR-Brand-Building.md
+- content/work/ramblers-scotland-annual-report.md
+- content/work/cepac-spirits-promo-packaging.md
