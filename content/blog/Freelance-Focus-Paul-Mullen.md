@@ -13,7 +13,7 @@ caption = "Paul actually has an entire face."
 image = "/uploads/Pau-Mullen-NoText_2019.png"
 template = "image-with-caption"
 [[a_post]]
-heading = "Freelance Focus: Paul Mullen  If you have a problem, if no one else can help, and if you can find him, maybe you can hire... "
+heading = "If you have a problem, if no one else can help, and if you can find him, maybe you can hire... "
 template = "heading"
 [[a_post]]
 subheading = "THE PAUL TEAM"
