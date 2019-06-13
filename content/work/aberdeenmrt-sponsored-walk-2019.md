@@ -11,11 +11,18 @@ template = "large-image"
 [[a_project.one_image]]
 alt_text = ""
 caption = ""
-image = "/uploads/AMRT-CaseStudy-Person.png"
+image = "/uploads/AMRT-CaseStudy-Cover-1.png"
 template = "image-with-caption"
 [[a_project]]
 heading = "Aberdeen MRT (Mountain Rescue Team) are a life saving charity based in the North East of Scotland."
 template = "heading"
+[[a_project]]
+template = "large-image"
+[[a_project.one_image]]
+alt_text = ""
+caption = ""
+image = "/uploads/AMRT-CaseStudy-Person.png"
+template = "image-with-caption"
 [[a_project]]
 subheading = "Every year the team must raise £40,000 to ensure that it remains operational. Every member gives their time voluntarily."
 template = "subheading"
