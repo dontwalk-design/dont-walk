@@ -7,7 +7,7 @@ project_title = "Sponsored Walk 2019"
 relateMe = "project"
 testimonial = ""
 [[a_project]]
-heading = "Aberdeen MRT (Mountain Rescue Team) are a live saving charity based in the North East of Scotland."
+heading = "Aberdeen MRT (Mountain Rescue Team) are a life saving charity based in the North East of Scotland."
 template = "heading"
 [[a_project]]
 subheading = "Every year the team must raise £40,000 to ensure that it remains operational. Every member gives their time voluntarily."
