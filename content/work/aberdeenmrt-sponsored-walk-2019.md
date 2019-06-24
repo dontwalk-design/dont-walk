@@ -52,7 +52,7 @@ caption = ""
 image = "/uploads/AberdeenMRTWalk2019-Twitter-1.jpg"
 template = "image-with-caption"
 [[a_project]]
-paragraphs = ""
+paragraphs = "We started out with a set of social media graphics for members of the public to use in assisting with their fundraising efforts."
 template = "paragraphs"
 [[a_project]]
 template = "large-image"
