@@ -52,7 +52,7 @@ caption = ""
 image = "/uploads/AberdeenMRTWalk2019-Twitter-1.jpg"
 template = "image-with-caption"
 [[a_project]]
-paragraphs = "We started out with a set of social media graphics for members of the public to use in assisting with their fundraising efforts."
+paragraphs = "We started out with a set of social media graphics for members of the public to use in assisting with their fundraising efforts. We recognise that types of people who join the walk do not necessarily engage online.\n\nPosters were designed to be as bright and simplistic as possible. These were likely to be in independant stores and on community notice boards. Therefore it was important that they delivered impact from a distance."
 template = "paragraphs"
 [[a_project]]
 template = "large-image"
