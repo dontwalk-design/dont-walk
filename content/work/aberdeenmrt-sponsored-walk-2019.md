@@ -87,13 +87,6 @@ caption = ""
 image = "/uploads/AMRT-A4-WalkPoster-2019.jpg"
 template = "image-with-caption"
 [[a_project]]
-template = "large-image"
-[[a_project.one_image]]
-alt_text = "An innocent drawing of a boot and a change purse."
-caption = ""
-image = "/uploads/AberdeenMRTWalk2019-Facebook-1.jpg"
-template = "image-with-caption"
-[[a_project]]
 paragraphs = "We've also been working on the Aberdeen MRT brand guide and have recently completed an appraisal of their materials. Brand guidelines, though much derided as 'books of no' made the design stage of this project really simple. \n\nWe'll tell you more about the brand process once we've published it."
 template = "paragraphs"
 [[a_project]]
@@ -107,6 +100,16 @@ template = "image-with-caption"
 alt_text = ""
 caption = ""
 image = "/uploads/AMRT-BrandGuideline-2019-PAGE18.jpg"
+template = "image-with-caption"
+[[a_project]]
+paragraphs = "We're still fundraising for the Team after completing the walk without requiring the assistance of mountain rescue.\n\nSo what are you waiting for? Grab your boots and join us in 2020 or grab your wallet and donate to Aberdeen MRT: [uk.virginmoneygiving.com/Team/DontWalk](https://uk.virginmoneygiving.com/Team/DontWalk \"https://uk.virginmoneygiving.com/Team/DontWalk\")"
+template = "paragraphs"
+[[a_project]]
+template = "large-image"
+[[a_project.one_image]]
+alt_text = "An innocent drawing of a boot and a change purse."
+caption = ""
+image = "/uploads/AberdeenMRTWalk2019-Facebook-1.jpg"
 template = "image-with-caption"
 
 +++
