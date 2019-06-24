@@ -32,6 +32,31 @@ template = "paragraphs"
 [[a_project]]
 template = "four-images"
 [[a_project.four_images]]
+alt_text = "The Aberdeen MRT Sponsored Walk 2017. Walkers by a Land Rover."
+caption = ""
+image = "/uploads/AMRT-walk-2017-1.jpg"
+template = "image-with-caption"
+[[a_project.four_images]]
+alt_text = ""
+caption = ""
+image = "/uploads/AMRT-walk-2017-3.jpg"
+template = "image-with-caption"
+[[a_project.four_images]]
+alt_text = "The Aberdeen MRT Sponsored Walk 2017. The halfway point."
+caption = ""
+image = "/uploads/AMRT-WalkSquares-2019-2.jpg"
+template = "image-with-caption"
+[[a_project.four_images]]
+alt_text = "The Aberdeen MRT Sponsored Walk 2017. Our fundraising total after a week."
+caption = ""
+image = "/uploads/AMRT-WalkSquares-2019-4.jpg"
+template = "image-with-caption"
+[[a_project]]
+paragraphs = "We started out with a set of social media graphics for members of the public to use in assisting with their fundraising efforts. We recognise that types of people who join the walk do not necessarily engage online.\n\nPosters were designed to be as bright and simplistic as possible. These were likely to be in independant stores and on community notice boards. Therefore it was important that they delivered impact from a distance."
+template = "paragraphs"
+[[a_project]]
+template = "four-images"
+[[a_project.four_images]]
 alt_text = "image of the Aberdeen MRT walk route"
 caption = ""
 image = "/uploads/AMRT-SponsoredWalk-Square.jpg"
@@ -51,9 +76,6 @@ alt_text = "A sponsor image for fundraisers"
 caption = ""
 image = "/uploads/AberdeenMRTWalk2019-Twitter-1.jpg"
 template = "image-with-caption"
-[[a_project]]
-paragraphs = "We started out with a set of social media graphics for members of the public to use in assisting with their fundraising efforts. We recognise that types of people who join the walk do not necessarily engage online.\n\nPosters were designed to be as bright and simplistic as possible. These were likely to be in independant stores and on community notice boards. Therefore it was important that they delivered impact from a distance."
-template = "paragraphs"
 [[a_project]]
 template = "large-image"
 [[a_project.one_image]]
