@@ -30,7 +30,36 @@ template = "image-with-caption"
 paragraphs = "Each year the team host a Sponsored Walk in the Cairngorm National Park. Members of the public have an opportunity to meet the team whilst raising money for the charity.\n\nWe've taken part in this walk for three years. Aberdeen MRT were impressed by our own marketing efforts around our fundraising, so they asked us to help them with theirs!"
 template = "paragraphs"
 [[a_project]]
+template = "four-images"
+[[a_project.four_images]]
+alt_text = "image of the Aberdeen MRT walk route"
+caption = ""
+image = "/uploads/AMRT-SponsoredWalk-Square.jpg"
+template = "image-with-caption"
+[[a_project.four_images]]
+alt_text = "A sponsor image for fundraisers"
+caption = ""
+image = "/uploads/AMRT-Walk2019-Supporter-1.jpg"
+template = "image-with-caption"
+[[a_project.four_images]]
+alt_text = "A sponsor image for fundraisers"
+caption = ""
+image = "/uploads/AMRT-Walk2019-Supporter-2.jpg"
+template = "image-with-caption"
+[[a_project.four_images]]
+alt_text = "A sponsor image for fundraisers"
+caption = ""
+image = "/uploads/AberdeenMRTWalk2019-Twitter-1.jpg"
+template = "image-with-caption"
+[[a_project]]
 paragraphs = ""
 template = "paragraphs"
+[[a_project]]
+template = "large-image"
+[[a_project.one_image]]
+alt_text = "An A4 poster detailing the time of the event and how to sign up. This was for the 2019 Sponsored Walk on June 8th."
+caption = ""
+image = "/uploads/AMRT-A4-WalkPoster-2019.jpg"
+template = "image-with-caption"
 
 +++
