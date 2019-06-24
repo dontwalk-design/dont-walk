@@ -61,5 +61,12 @@ alt_text = "An A4 poster detailing the time of the event and how to sign up. Thi
 caption = ""
 image = "/uploads/AMRT-A4-WalkPoster-2019.jpg"
 template = "image-with-caption"
+[[a_project]]
+template = "large-image"
+[[a_project.one_image]]
+alt_text = "An innocent drawing of a boot and a change purse."
+caption = ""
+image = "/uploads/AberdeenMRTWalk2019-Facebook-1.jpg"
+template = "image-with-caption"
 
 +++
