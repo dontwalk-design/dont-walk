@@ -102,7 +102,7 @@ caption = ""
 image = "/uploads/AMRT-BrandGuideline-2019-PAGE18.jpg"
 template = "image-with-caption"
 [[a_project]]
-paragraphs = "We're still fundraising for the Team after completing the walk without requiring the assistance of mountain rescue.\n\nSo what are you waiting for? Grab your boots and join us in 2020 or grab your wallet and donate to Aberdeen MRT: [uk.virginmoneygiving.com/Team/DontWalk](https://uk.virginmoneygiving.com/Team/DontWalk \"https://uk.virginmoneygiving.com/Team/DontWalk\")"
+paragraphs = "We're still fundraising for the Team after completing the walk without requiring the assistance of mountain rescue.\n\nSo what are you waiting for? Grab your boots* and join us in 2020 or grab your wallet and donate to Aberdeen MRT: [uk.virginmoneygiving.com/Team/DontWalk](https://uk.virginmoneygiving.com/Team/DontWalk \"https://uk.virginmoneygiving.com/Team/DontWalk\")\n\nThe 2020 Sponsored walk will be held on June 13th and is the 50th anniversary of this event. Read more: [amrt.org.uk/Sponsored-Walks](https://amrt.org.uk/Sponsored-Walks \"https://amrt.org.uk/Sponsored-Walks\")"
 template = "paragraphs"
 [[a_project]]
 template = "large-image"
