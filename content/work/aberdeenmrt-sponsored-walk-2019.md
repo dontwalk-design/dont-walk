@@ -90,5 +90,17 @@ alt_text = "An innocent drawing of a boot and a change purse."
 caption = ""
 image = "/uploads/AberdeenMRTWalk2019-Facebook-1.jpg"
 template = "image-with-caption"
+[[a_project]]
+template = "two-images"
+[[a_project.two_images]]
+alt_text = ""
+caption = ""
+image = "/uploads/AMRT-BrandGuideline-2019-PAGE7.jpg"
+template = "image-with-caption"
+[[a_project.two_images]]
+alt_text = ""
+caption = ""
+image = "/uploads/AMRT-BrandGuideline-2019-PAGE18.jpg"
+template = "image-with-caption"
 
 +++
