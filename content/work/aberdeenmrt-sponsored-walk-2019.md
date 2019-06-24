@@ -64,6 +64,11 @@ template = "image-with-caption"
 [[a_project.four_images]]
 alt_text = "A sponsor image for fundraisers"
 caption = ""
+image = "/uploads/AberdeenMRTWalk2019-Twitter-1.jpg"
+template = "image-with-caption"
+[[a_project.four_images]]
+alt_text = "A sponsor image for fundraisers"
+caption = ""
 image = "/uploads/AMRT-Walk2019-Supporter-1.jpg"
 template = "image-with-caption"
 [[a_project.four_images]]
@@ -71,11 +76,9 @@ alt_text = "A sponsor image for fundraisers"
 caption = ""
 image = "/uploads/AMRT-Walk2019-Supporter-2.jpg"
 template = "image-with-caption"
-[[a_project.four_images]]
-alt_text = "A sponsor image for fundraisers"
-caption = ""
-image = "/uploads/AberdeenMRTWalk2019-Twitter-1.jpg"
-template = "image-with-caption"
+[[a_project]]
+paragraphs = "We recognised that types of people who join the walk do not necessarily engage online.\n\nPosters were designed to be as bright and simplistic as possible. These were likely to be in independant stores and on community notice boards. Therefore it was important that they delivered impact from a distance."
+template = "paragraphs"
 [[a_project]]
 template = "large-image"
 [[a_project.one_image]]
