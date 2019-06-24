@@ -102,7 +102,7 @@ caption = ""
 image = "/uploads/AMRT-BrandGuideline-2019-PAGE18.jpg"
 template = "image-with-caption"
 [[a_project]]
-paragraphs = "We're still fundraising for the Team after completing the walk without requiring the assistance of mountain rescue.\n\nSo what are you waiting for? Grab your boots* and join us in 2020 or grab your wallet and donate to Aberdeen MRT: [uk.virginmoneygiving.com/Team/DontWalk](https://uk.virginmoneygiving.com/Team/DontWalk \"https://uk.virginmoneygiving.com/Team/DontWalk\")\n\nThe 2020 Sponsored walk will be held on June 13th and is the 50th anniversary of this event. Read more: [amrt.org.uk/Sponsored-Walks](https://amrt.org.uk/Sponsored-Walks \"https://amrt.org.uk/Sponsored-Walks\")"
+paragraphs = "We're still fundraising for the Team after completing the walk without requiring the assistance of Mountain Rescue volunteers.\n\nSo what are you waiting for? Grab your boots or grab your wallet.\n\nTo donate to Aberdeen MRT visit our fundraising page: [uk.virginmoneygiving.com/Team/DontWalk](https://uk.virginmoneygiving.com/Team/DontWalk \"https://uk.virginmoneygiving.com/Team/DontWalk\")\n\nDonate directly to the Team: [uk.virginmoneygiving.com](https://uk.virginmoneygiving.com/charity-web/charity/finalCharityHomepage.action?charityId=1009723 \"https://uk.virginmoneygiving.com/charity-web/charity/finalCharityHomepage.action?charityId=1009723\")\n\nOr join us on the 2020 Sponsored walk will be held on June 13th and is the 50th anniversary of this event. Read more: [amrt.org.uk/Sponsored-Walks](https://amrt.org.uk/Sponsored-Walks \"https://amrt.org.uk/Sponsored-Walks\")"
 template = "paragraphs"
 [[a_project]]
 template = "large-image"
