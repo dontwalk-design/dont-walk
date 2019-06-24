@@ -111,5 +111,11 @@ alt_text = "An innocent drawing of a boot and a change purse."
 caption = ""
 image = "/uploads/AberdeenMRTWalk2019-Facebook-1.jpg"
 template = "image-with-caption"
+[[a_project]]
+subheading = "Holding an event?"
+template = "subheading"
+[[a_project]]
+paragraphs = "We've helped Aberdeen Mountain Rescue Team, Historic Scotland and Scottish Mountain Rescue produce marketing materials to drive attendance rates and promote their activities.\n\nDrop us a message today, we'll put you ahead of the pack!"
+template = "paragraphs"
 
 +++
