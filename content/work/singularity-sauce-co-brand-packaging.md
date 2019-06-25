@@ -17,7 +17,7 @@ template = "image-with-caption"
 heading = "Mark's favourite hot sauce is the one he makes himself."
 template = "heading"
 [[a_project]]
-paragraphs = "So it was only fair that he gave the branding, packaging and digital the same amount of care as he does with the creating the product. A sauce that tastes like a punch in the face doesn't need to shout about it too loudly on the label.\n\nShouting about things on social media is another matter entirely.\n\nSingularity Sauce was recently featured in Society Aberdeen read more here: [Society Aberdeen](https://www.societyaberdeen.co.uk/food-drink/aberdeenshire-man-mark-mcauley-turns-hot-sauce-hobby-singularity-sauces-co-into-fully-fledged-business/)."
+paragraphs = "So it was only fair that he gave the branding, packaging and digital the same amount of care as he does in creating the product. A sauce that tastes like a punch in the face doesn't need to shout about it too loudly on the label.\n\nShouting about things on social media is another matter entirely.\n\nSingularity Sauce was recently featured in Society Aberdeen read more here: [Society Aberdeen](https://www.societyaberdeen.co.uk/food-drink/aberdeenshire-man-mark-mcauley-turns-hot-sauce-hobby-singularity-sauces-co-into-fully-fledged-business/)."
 template = "paragraphs"
 [[a_project]]
 template = "four-images"
