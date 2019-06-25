@@ -59,7 +59,7 @@ template = "image-with-caption"
 [[a_project.four_images]]
 alt_text = ""
 caption = ""
-image = "/uploads/56571283_107190813728619_5162922427810367839_n.jpg"
+image = "/uploads/mark-box-tape.png"
 template = "image-with-caption"
 [[a_project.four_images]]
 alt_text = ""
