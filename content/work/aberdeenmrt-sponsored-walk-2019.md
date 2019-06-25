@@ -87,7 +87,7 @@ caption = ""
 image = "/uploads/AMRT-A4-WalkPoster-2019.jpg"
 template = "image-with-caption"
 [[a_project]]
-paragraphs = "We've also been working on the Aberdeen MRT brand guide and have recently completed an appraisal of their materials. Brand guidelines, though much derided as 'books of no' made the design stage of this project really simple. \n\nWe'll tell you more about the brand process once we've published it."
+paragraphs = "We've also been working on the Aberdeen MRT brand guide and have recently completed an appraisal of their materials. Brand guidelines, occasionaly mistaken for 'books of no', made the design stage of this project really simple.\n\nWe'll tell you more about the brand process once we've published it."
 template = "paragraphs"
 [[a_project]]
 template = "two-images"
