@@ -17,7 +17,7 @@ template = "image-with-caption"
 heading = "Mark's favourite hot sauce is the one he makes himself."
 template = "heading"
 [[a_project]]
-paragraphs = "So it was only fair that he gave the branding and packaging the same amount of care as he does with the creating the product.\n\nFull project, and some exciting news, coming soon."
+paragraphs = "So it was only fair that he gave the branding and packaging the same amount of care as he does with the creating the product. A sauce that tastes like a punch in the face doesn't need to scream about it on the label. So Singularity was born.\n\nFull project, and some exciting news, coming soon."
 template = "paragraphs"
 [[a_project]]
 template = "four-images"
