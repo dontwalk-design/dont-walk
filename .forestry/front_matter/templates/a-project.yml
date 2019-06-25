@@ -45,6 +45,7 @@ fields:
   hidden: true
   default: project
 pages:
+- content/work/singularity-sauce-co-brand-packaging.md
 - content/work/aberdeenmrt-sponsored-walk-2019.md
 - content/work/Dunblane-Museum-Atlantic-Walls.md
 - content/work/historic-scotland-exhibition.md
