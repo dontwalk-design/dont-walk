@@ -66,8 +66,5 @@ alt_text = ""
 caption = ""
 image = "/uploads/60604122_440813196475995_348094635393708693_n.jpg"
 template = "image-with-caption"
-[[a_project]]
-paragraphs = ""
-template = "paragraphs"
 
 +++
