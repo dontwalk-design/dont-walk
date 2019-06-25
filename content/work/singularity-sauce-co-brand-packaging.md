@@ -11,7 +11,7 @@ template = "large-image"
 [[a_project.one_image]]
 alt_text = ""
 caption = ""
-image = "/uploads/MASTER-CaseStudy-Cover-1024x640_2019.png"
+image = "/uploads/1024-bottles-dw.jpg"
 template = "image-with-caption"
 [[a_project]]
 heading = "Mark's favourite hot sauce is the one he makes himself."
