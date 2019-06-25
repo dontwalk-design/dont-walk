@@ -42,7 +42,7 @@ caption = ""
 image = "/uploads/45626272_1928313870804141_1603007766257991680_n.jpg"
 template = "image-with-caption"
 [[a_project]]
-paragraphs = "Full project focus, and some exciting news, coming soon."
+paragraphs = "After trading for less than a year Singularity Sauce is already stocked by [Formartines](http://www.formartines.com) in Aberdeenshire, [Olivieras](https://www.facebook.com/oliveiras.banff/) in Banff and [Hop Burns & Black](https://www.hopburnsblack.co.uk) in London.\n\nFull project focus, and some exciting news, coming soon."
 template = "paragraphs"
 [[a_project]]
 template = "four-images"
