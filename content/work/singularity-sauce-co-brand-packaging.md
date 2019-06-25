@@ -1,12 +1,45 @@
 +++
-a_project = []
 date = "2019-05-31T23:00:00+00:00"
-draft = true
 project_client = "Singularity Sauce Co"
-project_excerpt = ""
-project_image = ""
+project_excerpt = "Brand, packaging and marketing for Mark's favourite hot sauce company."
+project_image = "/uploads/MASTER-CaseStudy-Cover-Logo-1024x640_2019.png"
 project_title = "Small batch hot sauce"
 relateMe = "project"
 testimonial = ""
+[[a_project]]
+template = "large-image"
+[[a_project.one_image]]
+alt_text = ""
+caption = ""
+image = "/uploads/MASTER-CaseStudy-Cover-1024x640_2019.png"
+template = "image-with-caption"
+[[a_project]]
+heading = ""
+template = "heading"
+[[a_project]]
+paragraphs = ""
+template = "paragraphs"
+[[a_project]]
+template = "four-images"
+[[a_project.four_images]]
+alt_text = ""
+caption = ""
+image = "/uploads/43087782_1912747375694124_1796639172727930880_n.jpg"
+template = "image-with-caption"
+[[a_project.four_images]]
+alt_text = ""
+caption = ""
+image = "/uploads/28661016_1788080798160783_106859026112300552_n.jpg"
+template = "image-with-caption"
+[[a_project.four_images]]
+alt_text = ""
+caption = ""
+image = "/uploads/47216061_1941117592857102_6652973984398704640_n.jpg"
+template = "image-with-caption"
+[[a_project.four_images]]
+alt_text = ""
+caption = ""
+image = "/uploads/47216061_1941117592857102_6652973984398704640_n-1.jpg"
+template = "image-with-caption"
 
 +++
