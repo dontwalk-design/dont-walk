@@ -17,7 +17,7 @@ template = "image-with-caption"
 heading = "Mark's favourite hot sauce is the one he makes himself."
 template = "heading"
 [[a_project]]
-paragraphs = "So it was only fair that he gave the branding and packaging the same amount of care as he does with the creating the product. A sauce that tastes like a punch in the face doesn't need to scream about it on the label. So Singularity was born.\n\nFull project, and some exciting news, coming soon."
+paragraphs = "So it was only fair that he gave the branding and packaging the same amount of care as he does with the creating the product. A sauce that tastes like a punch in the face doesn't need to scream about it on the label. \n\nSingularity Sauce was recently featured in Society Aberdeen read more here: [Society Aberdeen](https://www.societyaberdeen.co.uk/food-drink/aberdeenshire-man-mark-mcauley-turns-hot-sauce-hobby-singularity-sauces-co-into-fully-fledged-business/)."
 template = "paragraphs"
 [[a_project]]
 template = "four-images"
@@ -41,5 +41,33 @@ alt_text = ""
 caption = ""
 image = "/uploads/45626272_1928313870804141_1603007766257991680_n.jpg"
 template = "image-with-caption"
+[[a_project]]
+paragraphs = "Full project focus, and some exciting news, coming soon."
+template = "paragraphs"
+[[a_project]]
+template = "four-images"
+[[a_project.four_images]]
+alt_text = ""
+caption = ""
+image = "/uploads/53618877_405005380315182_2661210031896097177_n.jpg"
+template = "image-with-caption"
+[[a_project.four_images]]
+alt_text = ""
+caption = ""
+image = "/uploads/57059902_2480877818590004_6175262102946717141_n.jpg"
+template = "image-with-caption"
+[[a_project.four_images]]
+alt_text = ""
+caption = ""
+image = "/uploads/56571283_107190813728619_5162922427810367839_n.jpg"
+template = "image-with-caption"
+[[a_project.four_images]]
+alt_text = ""
+caption = ""
+image = "/uploads/60604122_440813196475995_348094635393708693_n.jpg"
+template = "image-with-caption"
+[[a_project]]
+paragraphs = ""
+template = "paragraphs"
 
 +++
