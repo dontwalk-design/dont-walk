@@ -17,7 +17,7 @@ template = "image-with-caption"
 heading = "Mark's favourite hot sauce is the one he makes himself."
 template = "heading"
 [[a_project]]
-paragraphs = "So it was only fair that he gave the branding and packaging the same amount of care as he does with the creating the product. A sauce that tastes like a punch in the face doesn't need to scream about it on the label. \n\nSingularity Sauce was recently featured in Society Aberdeen read more here: [Society Aberdeen](https://www.societyaberdeen.co.uk/food-drink/aberdeenshire-man-mark-mcauley-turns-hot-sauce-hobby-singularity-sauces-co-into-fully-fledged-business/)."
+paragraphs = "So it was only fair that he gave the branding, packaging and digital the same amount of care as he does with the creating the product. A sauce that tastes like a punch in the face doesn't need to shout about it too loudly on the label.\n\nShouting about things on social media is another matter entirely.\n\nSingularity Sauce was recently featured in Society Aberdeen read more here: [Society Aberdeen](https://www.societyaberdeen.co.uk/food-drink/aberdeenshire-man-mark-mcauley-turns-hot-sauce-hobby-singularity-sauces-co-into-fully-fledged-business/)."
 template = "paragraphs"
 [[a_project]]
 template = "four-images"
@@ -42,7 +42,7 @@ caption = ""
 image = "/uploads/45626272_1928313870804141_1603007766257991680_n.jpg"
 template = "image-with-caption"
 [[a_project]]
-paragraphs = "After trading for less than a year Singularity Sauce is already stocked by [Formartines](http://www.formartines.com) in Aberdeenshire, [Olivieras](https://www.facebook.com/oliveiras.banff/) in Banff and [Hop Burns & Black](https://www.hopburnsblack.co.uk) in London.\n\nFull project focus, and some exciting news, coming soon."
+paragraphs = "[Singularity sauce](https://singularitysauce.co \"Singularity Sauce Co\") has been trading online for a little over 6 months and is already stocked by [Formartines](http://www.formartines.com) in Aberdeenshire, [Olivieras](https://www.facebook.com/oliveiras.banff/) in Banff and [Hop Burns & Black](https://www.hopburnsblack.co.uk) in London.\n\nFull project focus, an overview of some innovative collaboration and some exciting news, coming soon."
 template = "paragraphs"
 [[a_project]]
 template = "four-images"
