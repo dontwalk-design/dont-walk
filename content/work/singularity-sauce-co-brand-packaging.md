@@ -14,10 +14,10 @@ caption = ""
 image = "/uploads/MASTER-CaseStudy-Cover-1024x640_2019.png"
 template = "image-with-caption"
 [[a_project]]
-heading = ""
+heading = "Mark's favourite hot sauce is the one he makes himself."
 template = "heading"
 [[a_project]]
-paragraphs = ""
+paragraphs = "So it was only fair that he gave the branding and packaging the same amount of care as he does with the creating the product.\n\nFull project, and some exciting news, coming soon."
 template = "paragraphs"
 [[a_project]]
 template = "four-images"
