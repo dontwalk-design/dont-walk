@@ -39,7 +39,7 @@ template = "image-with-caption"
 [[a_project.four_images]]
 alt_text = ""
 caption = ""
-image = "/uploads/47216061_1941117592857102_6652973984398704640_n-1.jpg"
+image = "/uploads/45626272_1928313870804141_1603007766257991680_n.jpg"
 template = "image-with-caption"
 
 +++
