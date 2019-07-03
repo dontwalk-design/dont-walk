@@ -115,7 +115,7 @@ template = "image-with-caption"
 subheading = "Holding an event?"
 template = "subheading"
 [[a_project]]
-paragraphs = "We've helped Aberdeen Mountain Rescue Team, Historic Scotland, Team Noble, Round Table, Stirling Highland Games and Scottish Mountain Rescue with their events. Increase attendance, gain attention from the press, attain corporate sponsorship or increase public awareness with impactful creative.\n\nDrop us a message today, we'll put you a step ahead."
+paragraphs = "We've worked with Historic Scotland, Team Noble, Round Table, Stirling Highland Games and Scottish Mountain Rescue to support their events. Increase attendance, gain attention from the press, attain corporate sponsorship or increase public awareness with impactful creative.\n\nDrop us a message today, we'll put you a step ahead."
 template = "paragraphs"
 
 +++
