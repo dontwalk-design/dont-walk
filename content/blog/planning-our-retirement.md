@@ -12,6 +12,13 @@ template = "paragraphs"
 subheading = "Looking back"
 template = "subheading"
 [[a_post]]
+template = "large-image"
+[[a_post.one_image]]
+alt_text = "Beach scene with deckchairs. The retirement cliché."
+caption = "The last fifteen months has passed in a bit of a blur."
+image = "/uploads/Retirement-Blog-Cover-1024x640.png"
+template = "image-with-caption"
+[[a_post]]
 paragraphs = "Nothing makes us tick quite like crafting a brand identity, building a website or launching a campaign alongside our clients. But we’re not the kind of designers who update business cards, design a one-off poster or populate thirty case study templates.\n\nWe do these things as a business. Mark and I don’t tend to do these things ourselves. We conceptualise, strategise and deliver impactful creative.\n\nIn an ideal world all of our clients would have the time and budgets to constantly require our services. But consultancy rarely works quite like that, so we deliver toolkits for our clients. These toolkits allow other designers, marketing people and production people to create branded products without our direct involvement.\n\nThis is great for our clients. But it means that we’re forever planning our own redundancy."
 template = "paragraphs"
 [[a_post]]
