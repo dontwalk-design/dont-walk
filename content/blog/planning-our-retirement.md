@@ -1,7 +1,7 @@
 +++
 date = "2019-07-03T23:00:00+00:00"
 post_author = "Stewart Ainslie"
-post_excerpt = ""
+post_excerpt = "A few thoughts on the afterlife of our first project"
 post_image = "/uploads/Retirement-Blog-Cover-1024x640.png"
 post_title = "Planning our retirement"
 relateMe = "post"
