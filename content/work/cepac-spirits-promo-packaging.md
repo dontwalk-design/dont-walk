@@ -7,7 +7,7 @@ images:
 - images/work/cepac/cepac.png
 relateMe: project
 project_title: Shapely Packs for Spirits
-project_image: "/uploads/cepac.png"
+project_image: "/uploads/Cepac-Arcwise-SpiritsSummit-Cover_2018.jpg"
 project_excerpt: Cepac are the UK's leading independent corrugated packaging company.
   We were commissioned to create a sample pack targeting UK design agencies promoting
   quality packaging for the spirits industry.
