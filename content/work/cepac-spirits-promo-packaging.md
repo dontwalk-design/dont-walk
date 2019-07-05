@@ -47,10 +47,6 @@ a_project:
 - template: four-images
   four_images:
   - template: image-with-caption
-    image: "/uploads/Cepac-benObrien-1.jpg"
-    caption: Images courtesy of Ben O'Brien
-    alt_text: ''
-  - template: image-with-caption
     image: "/uploads/Cepac-benObrien-2.jpg"
     alt_text: ''
     caption: ''
@@ -62,6 +58,10 @@ a_project:
     image: "/uploads/Cepac-benObrien-4.jpg"
     alt_text: ''
     caption: ''
+  - template: image-with-caption
+    image: "/uploads/Cepac-benObrien-1.jpg"
+    caption: Images courtesy of Ben O'Brien
+    alt_text: ''
 - template: subheading
   subheading: An immediate win
 - template: paragraphs
