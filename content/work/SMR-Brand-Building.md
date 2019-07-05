@@ -4,7 +4,7 @@ description: Don't Walk provide graphic design and consultancy services to Scott
   Mountain Rescue
 date: 2019-03-01T23:05:07+00:00
 relateMe: project
-project_image: "/uploads/SMR.png"
+project_image: "/uploads/SMR-brand-building.png"
 project_title: Brand building
 project_excerpt: Don’t Walk have been providing graphic design services and consultancy
   to Scottish Mountain Rescue since 2017. Project overview coming soon.
