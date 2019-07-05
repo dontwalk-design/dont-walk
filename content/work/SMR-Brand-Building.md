@@ -2,7 +2,7 @@
 title: 'Scottish Mountain Rescue: Brand Building'
 description: Don't Walk provide graphic design and consultancy services to Scottish
   Mountain Rescue
-date: 2019-03-18T23:05:07+00:00
+date: 2019-03-01T23:05:07+00:00
 relateMe: project
 project_image: "/uploads/SMR.png"
 project_title: Brand building
