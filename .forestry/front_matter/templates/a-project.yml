@@ -45,6 +45,7 @@ fields:
   hidden: true
   default: project
 pages:
+- content/work/great-game-waterloo-replayed.md
 - content/work/Dunblane-Museum-Atlantic-Walls.md
 - content/work/singularity-sauce-co-brand-packaging.md
 - content/work/aberdeenmrt-sponsored-walk-2019.md
