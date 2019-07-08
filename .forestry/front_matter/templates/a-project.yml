@@ -35,16 +35,6 @@ fields:
   - paragraphs
   - two-images
   - four-images
-- name: the_testimonial
-  type: blocks
-  label: The Testimonial
-  template_types:
-  - testimonial-scribble
-  - a-testimonial
-  - cite
-  config:
-    min: 
-    max: 
 - type: text
   name: relateMe
   label: RelateMe
