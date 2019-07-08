@@ -27,7 +27,27 @@
 	    {{ end }}
 	{{ end }}
 	</section>
-	{{ partial "quoteRamblers.html" . }}
+
+	{{ with .Params.add_a_testimonial }}
+	<article class="bg-yellow">
+    <div class="w-80 mw8-l center pv5 tc">
+			<img src="{{ .testimonial_graphic }}" alt="{{ .testimonial_citation }}" class="db" />
+			<blockquote class="db center f5 f4-m f3-l lh-copy-ns measure-wide">
+				<div class="f5 f4-m f3-l lh-copy measure-wide nested-links">
+					{{ $markdown := .testimonial_body | markdownify }}
+					{{ if not ( strings.Contains $markdown "<p>" ) }}
+					<p>{{ $markdown }}</p>
+					{{ else }}
+					{{ $markdown }}
+					{{ end }}
+				</div>
+				<p class="lh-solid">{{ .testimonial_citation }}</p>
+			</blockquote>
+    </div>
+	</article>
+	{{ end }}
+
+	{{/* {{ partial "quoteRamblers.html" . }} */}}
 	{{/* {{ partial "testimonial.html" . }} */}}
 	{{ partial "relatedProjects.html" . }}
 {{ end }}
