@@ -15,6 +15,12 @@
 		{{ end }}
 		</div>
 
+		<div class="cf pt3-ns">
+		{{ range first 2 (after 3 (where .Data.Pages "Section" "work").ByDate.Reverse) }}
+		  {{ partial "projects/twoProjects.html" . }}
+		{{ end }}
+		</div>
+
   </section>
 
 	<section class="w-80 mw8-l center pv4 bt bw2 b--yellow" id="people">
@@ -83,6 +89,5 @@
 
 	{{ partial "clients.html" . }}
 	{{ partial "skills.html" . }}
-	{{ partial "quoteRamblers.html" . }}
 
 {{ end }}
