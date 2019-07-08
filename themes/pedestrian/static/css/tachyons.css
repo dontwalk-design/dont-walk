@@ -371,7 +371,7 @@ img { max-width: 100%; }
 .b--black-025 { border-color: rgba( 0, 0, 0, .025 ); }
 .b--black-0125 { border-color: rgba( 0, 0, 0, .0125 ); }
 .b--dark-red { border-color: undefined; }
-.b--red { border-color: undefined; }
+.b--red { border-color: #f33c0b; }
 .b--light-red { border-color: undefined; }
 .b--orange { border-color: undefined; }
 .b--gold { border-color: undefined; }
@@ -384,7 +384,7 @@ img { max-width: 100%; }
 .b--pink { border-color: #ff80cc; }
 .b--light-pink { border-color: #ffa3d7; }
 .b--dark-green { border-color: undefined; }
-.b--green { border-color: undefined; }
+.b--green { border-color: #29ed19; }
 .b--light-green { border-color: undefined; }
 .b--navy { border-color: undefined; }
 .b--dark-blue { border-color: #00449e; }
@@ -1098,7 +1098,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .near-white { color: #fafafa; }
 .white { color: #fff; }
 .dark-red { color: undefined; }
-.red { color: undefined; }
+.red { color: #f33c0b; }
 .light-red { color: undefined; }
 .orange { color: undefined; }
 .gold { color: undefined; }
@@ -1111,7 +1111,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .pink { color: #ff80cc; }
 .light-pink { color: #ffa3d7; }
 .dark-green { color: undefined; }
-.green { color: undefined; }
+.green { color: #29ed19; }
 .light-green { color: undefined; }
 .navy { color: undefined; }
 .dark-blue { color: #00449e; }
@@ -1156,7 +1156,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .bg-white { background-color: #fff; }
 .bg-transparent { background-color: transparent; }
 .bg-dark-red { background-color: undefined; }
-.bg-red { background-color: undefined; }
+.bg-red { background-color: #f33c0b; }
 .bg-light-red { background-color: undefined; }
 .bg-orange { background-color: undefined; }
 .bg-gold { background-color: undefined; }
@@ -1169,7 +1169,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .bg-pink { background-color: #ff80cc; }
 .bg-light-pink { background-color: #ffa3d7; }
 .bg-dark-green { background-color: undefined; }
-.bg-green { background-color: undefined; }
+.bg-green { background-color: #29ed19; }
 .bg-light-green { background-color: undefined; }
 .bg-navy { background-color: undefined; }
 .bg-dark-blue { background-color: #00449e; }
@@ -1310,8 +1310,8 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .hover-bg-white-10:focus { background-color: rgba( 255, 255, 255, .1 ); }
 .hover-dark-red:hover { color: undefined; }
 .hover-dark-red:focus { color: undefined; }
-.hover-red:hover { color: undefined; }
-.hover-red:focus { color: undefined; }
+.hover-red:hover { color: #f33c0b; }
+.hover-red:focus { color: #f33c0b; }
 .hover-light-red:hover { color: undefined; }
 .hover-light-red:focus { color: undefined; }
 .hover-orange:hover { color: undefined; }
@@ -1336,8 +1336,8 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .hover-light-pink:focus { color: #ffa3d7; }
 .hover-dark-green:hover { color: undefined; }
 .hover-dark-green:focus { color: undefined; }
-.hover-green:hover { color: undefined; }
-.hover-green:focus { color: undefined; }
+.hover-green:hover { color: #29ed19; }
+.hover-green:focus { color: #29ed19; }
 .hover-light-green:hover { color: undefined; }
 .hover-light-green:focus { color: undefined; }
 .hover-navy:hover { color: undefined; }
@@ -1360,8 +1360,8 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .hover-washed-red:focus { color: undefined; }
 .hover-bg-dark-red:hover { background-color: undefined; }
 .hover-bg-dark-red:focus { background-color: undefined; }
-.hover-bg-red:hover { background-color: undefined; }
-.hover-bg-red:focus { background-color: undefined; }
+.hover-bg-red:hover { background-color: #f33c0b; }
+.hover-bg-red:focus { background-color: #f33c0b; }
 .hover-bg-light-red:hover { background-color: undefined; }
 .hover-bg-light-red:focus { background-color: undefined; }
 .hover-bg-orange:hover { background-color: undefined; }
@@ -1386,8 +1386,8 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .hover-bg-light-pink:focus { background-color: #ffa3d7; }
 .hover-bg-dark-green:hover { background-color: undefined; }
 .hover-bg-dark-green:focus { background-color: undefined; }
-.hover-bg-green:hover { background-color: undefined; }
-.hover-bg-green:focus { background-color: undefined; }
+.hover-bg-green:hover { background-color: #29ed19; }
+.hover-bg-green:focus { background-color: #29ed19; }
 .hover-bg-light-green:hover { background-color: undefined; }
 .hover-bg-light-green:focus { background-color: undefined; }
 .hover-bg-navy:hover { background-color: undefined; }
