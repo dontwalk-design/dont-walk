@@ -193,6 +193,6 @@ add_a_testimonial:
     Our brand materials have improved massively as a result of Don’t Walk’s involvement. They have been easy to work with, keen to understand our organisation, the community of independent teams and the challenges we face with branding.
 
     I wouldn’t hesitate to recommend Don’t Walk. I am very impressed with their commitment, flexibility, willingness to overdeliver and straight forward communication.
-  testimonial_citation: Andy Rockall, General Manager at Scottish Mountain Rescue
+  testimonial_citation: "—Andy Rockall, General Manager at Scottish Mountain Rescue"
 
 ---

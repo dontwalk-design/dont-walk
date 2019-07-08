@@ -86,6 +86,16 @@ a_project:
     We were happy to attend the Spirits Packaging Summit 2018 with Cepac and were excited and intrigued to witness the future possibilities for curved corrugated.
 testimonial: testimonials/SteveMoss-Arcwise1.md
 project_client: Cepac
+add_a_testimonial:
+  testimonial_graphic: ''
+  testimonial_body: |-
+    The build up to events can often be quite frantic and stressful. Don't Walk really rose to the challenge, achieving some impossible deadlines with calm efficiency.
+
+    We were extremely impressed by the quality and fast turnaround of the work which was delivered by Stewart, Ben and Mark.
+
+    The Spirits Summit attracted considerable interest and proved to be a great success. We were particularly impressed when one of the agencies made contact almost as soon as our mailer had hit their desk.
+  testimonial_citation: "—Steve Moss, Group Sales & Marketing Director at Cepac Group
+    Limited"
 
 ---
 I am a project.
