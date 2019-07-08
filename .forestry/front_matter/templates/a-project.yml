@@ -42,6 +42,31 @@ fields:
   label: RelateMe
   hidden: true
   default: project
+- name: add_a_testimonial
+  type: field_group
+  config: {}
+  fields:
+  - name: testimonial_graphic
+    type: file
+    config:
+      maxSize: 250
+    label: Testimonial graphic
+    description: Generally a scribble
+  - name: testimonial_body
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: html-blocks
+    label: Testimonial body
+  - name: testimonial_citation
+    type: text
+    config:
+      required: false
+    label: Testimonial citation
+  label: Add a testimonial
 pages:
 - content/work/historic-scotland-exhibition.md
 - content/work/ramblers-scotland-annual-report.md
