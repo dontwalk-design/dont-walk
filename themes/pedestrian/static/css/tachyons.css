@@ -1998,9 +1998,10 @@ code, .code { font-family: Consolas, monaco, monospace; }
 */
 /* Media Queries */
 .multi-column { -webkit-column-count: 3; /* Chrome, Safari, Opera */ /* Firefox */ column-count: 3; -webkit-column-width: 150px; column-width: 150px; }
-.nested-links a { color: #000; transition: color .15s ease-in; text-decoration: none; }
-.nested-links a:hover { color: rgba( 0, 0, 0, .4 ); transition: color .15s ease-in; }
-.nested-links a:focus { color: rgba( 0, 0, 0, .4 ); transition: color .15s ease-in; }
+.nested-links a { color: #000; transition: color .15s ease-in; text-decoration: none; border: 2px solid red; border-color: #ffec2d; border-width: 0 0 3px; }
+.nested-links a:hover { color: rgba( 0, 0, 0, .4 ); border-color: #ffec2d; transition: color .15s ease-in; }
+.nested-links a:focus { color: rgba( 0, 0, 0, .4 ); border-color: #ffec2d; transition: color .15s ease-in; }
+/* Call to action */
 /* Debugging */
 /*
 
