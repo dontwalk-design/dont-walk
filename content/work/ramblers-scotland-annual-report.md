@@ -76,6 +76,6 @@ add_a_testimonial:
     We were impressed with the support we received from Don’t Walk when we were producing our 2017/18 Annual Report for members.
 
     Stewart and Mark’s expert guidance and creative flair helped turn our ideas into reality. They were patient, efficient and approachable throughout the design and feedback process - and the end result is an attractive document that works well for our target audience.
-  testimonial_citation: "—Danny Carden. Comms and engagement officer, Ramblers Scotland"
+  testimonial_citation: "—Danny Carden, Comms and engagement officer, Ramblers Scotland"
 
 ---
