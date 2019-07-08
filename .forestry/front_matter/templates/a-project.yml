@@ -35,6 +35,8 @@ fields:
   - paragraphs
   - two-images
   - four-images
+  - testimonial-scribble
+  - cite
 - type: text
   name: relateMe
   label: RelateMe
