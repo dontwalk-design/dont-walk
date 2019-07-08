@@ -185,6 +185,10 @@ a_project:
     At the time of writing we are completing work on SMR’s 2018 Annual Review.
 
     The brand work we have begun is only the start of the story and we look forward to developing our relationship with SMR and their member teams.
+- template: testimonial-scribble
+  testimonial_scribble: ''
+- template: cite
+  cite: Andy Rockall, General Manager at Scottish Mountain Rescue
 project_client: Scottish Mountain Rescue
 testimonial: testimonials/AndyRockall-SMR.md
 
