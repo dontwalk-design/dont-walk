@@ -37,11 +37,6 @@ fields:
   - four-images
   - testimonial-scribble
   - cite
-- type: text
-  name: relateMe
-  label: RelateMe
-  hidden: true
-  default: project
 - name: add_a_testimonial
   type: field_group
   config: {}
@@ -67,6 +62,11 @@ fields:
       required: false
     label: Testimonial citation
   label: Add a testimonial
+- type: text
+  name: relateMe
+  label: RelateMe
+  hidden: true
+  default: project
 pages:
 - content/work/historic-scotland-exhibition.md
 - content/work/ramblers-scotland-annual-report.md
