@@ -2001,7 +2001,8 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .nested-links a { color: #000; transition: color .15s ease-in; text-decoration: none; border: 2px solid red; border-color: #ffec2d; border-width: 0 0 3px; }
 .nested-links a:hover { color: rgba( 0, 0, 0, .4 ); border-color: #ffec2d; transition: color .15s ease-in; }
 .nested-links a:focus { color: rgba( 0, 0, 0, .4 ); border-color: #ffec2d; transition: color .15s ease-in; }
-/* Call to action */
+/* Navigation margin overide of last element */
+.primaryNav a:last-of-type { margin-right: 0 !important; }
 /* Debugging */
 /*
 
