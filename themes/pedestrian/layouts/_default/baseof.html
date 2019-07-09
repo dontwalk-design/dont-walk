@@ -48,16 +48,16 @@
           <a class="db dtc-l v-mid black link dim w-100 w-40-l tc tl-l mb2 mb0-l" href="{{ .Site.BaseURL }}" title="Home">
             <h1 class="f5 f2-m f1-l ttu">{{ .Site.Title }}</h1>
           </a>
-          <div class="db dtc-l v-mid w-100 w-60-l tc tr-l">
+          <div class="db dtc-l v-mid w-100 w-60-l tc tr-l primaryNav">
             {{ if eq .IsHome true }}
             {{ $currentNode := . }}
             {{ range .Site.Menus.main }}
-            <a class="link dim black f5 f4-l dib mr3 mr3-l bb bw2 b--white" href="{{ .URL }}" title="{{ .Name }}">{{ .Name }}</a>
+            <a class="link dim black f5 f4-l dib mv1 mr3 mr3-l bb bw2 b--white" href="{{ .URL }}" title="{{ .Name }}">{{ .Name }}</a>
             {{ end }}
             {{ else }}
             {{ $currentNode := . }}
             {{ range .Site.Menus.main }}
-            <a class="link dim black f5 f4-l dib mr3 mr3-l bb bw2 b--yellow" href="{{ .URL }}" title="{{ .Name }}">{{ .Name }}</a>
+            <a class="link dim black f5 f4-l dib mv1 mr3 mr3-l bb bw2 b--yellow" href="{{ .URL }}" title="{{ .Name }}">{{ .Name }}</a>
             {{ end }}
             {{ end }}
           </div>
