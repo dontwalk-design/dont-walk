@@ -44,40 +44,32 @@
     <header class="{{ if eq .IsHome true }}bg-yellow{{ else }}bg-white{{ end }}">
 
       <div class="w-80 mw8-l center pv4">
-        <div class="cf pt3-ns">
-          <div class="fl w-100 w-40-l pr2-l pb3 pb0-ns">
-            <div class="pv2-l">
-              <h1 class="f5 f2-m f1-l ttu"><a class="link dim black" href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
-            </div>
+        <nav class="db dt-l w-100 border-box pv3">
+          <a class="db dtc-l v-mid black link dim w-100 w-40-l tc tl-l mb2 mb0-l" href="{{ .Site.BaseURL }}" title="Home">
+            <h1 class="f5 f2-m f1-l ttu">{{ .Site.Title }}</h1>
+          </a>
+          <div class="db dtc-l v-mid w-100 w-60-l tc tr-l">
+            {{ if eq .IsHome true }}
+            {{ $currentNode := . }}
+            {{ range .Site.Menus.main }}
+            <a class="link dim black f5 f4-l dib mr3 mr3-l bb bw2 b--white" href="{{ .URL }}" title="{{ .Name }}">{{ .Name }}</a>
+            {{ end }}
+            {{ else }}
+            {{ $currentNode := . }}
+            {{ range .Site.Menus.main }}
+            <a class="link dim black f5 f4-l dib mr3 mr3-l bb bw2 b--yellow" href="{{ .URL }}" title="{{ .Name }}">{{ .Name }}</a>
+            {{ end }}
+            {{ end }}
           </div>
-          <div class="fl w-80 w-60-l pl4-l pb3 pb0-ns">
-            <div class="pv4-l">
-              {{ if eq .IsHome true }}
-              <nav class="cf pt3 list f5 f4-l">
-                {{ $currentNode := . }}
-                {{ range .Site.Menus.main }}
-                <li class="fl w-100 w-20-m w-20-l tr-l">
-                  <a class="link dim black pr1 bb bw2 b--white" href="{{.URL}}">{{ .Name }}</a>
-                </li>
-                {{ end }}
-              </nav>
-              {{ else }}
-              <nav class="cf pt3 list f5 f4-l">
-                {{ $currentNode := . }}
-                {{ range .Site.Menus.main }}
-                <li class="fl w-100 w-20-m w-20-l tr-l">
-                  <a class="link dim black pr1 bb bw2 b--yellow" href="{{.URL}}">{{ .Name }}</a>
-                </li>
-                {{ end }}
-              </nav>
-              {{ end }}
-            </div>
-          </div>
-        </div>
+        </nav>
       </div>
       {{ if eq .IsHome true }}
       <div class="w-80 mw8-l center pt4 pb2">
-        <h2 class="f3 f1-l lh-title">Enemies of <br>pedestrian branding.</h2>
+        <div class="dt w-100">
+          <div class="dtc v-mid tc black pt4 pb2">
+            <h2 class="f3 f1-l lh-title tc tl-l">Enemies of <br>pedestrian branding.</h1>
+          </div>
+        </div>
       </div>
       {{ end }}
 
