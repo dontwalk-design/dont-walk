@@ -1,0 +1,53 @@
+{{ define "main" }}
+
+	<section class="w-80 mw8-l center pv4">
+		<h1 class="ttu f3 f1-ns">
+			{{ .Title }}<br/>Role
+			{{/* {{ .Params.project_client }}:<br/>
+			{{ .Params.project_title }} */}}
+		</h1>
+		{{ .Content }}
+		{{/* {{ range .Params.a_project }}
+			{{ if eq "large-image" .template }}
+				{{ partial "blocks/largeImage" . }}
+			{{ end }}
+			{{ if eq "heading" .template }}
+	        {{ partial "blocks/heading" . }}
+	    {{ end }}
+			{{ if eq "subheading" .template }}
+	        {{ partial "blocks/subheading" . }}
+	    {{ end }}
+			{{ if eq "paragraphs" .template }}
+	        {{ partial "blocks/paragraphs" . }}
+	    {{ end }}
+			{{ if eq "two-images" .template }}
+	        {{ partial "blocks/twoImages" . }}
+	    {{ end }}
+			{{ if eq "four-images" .template }}
+	        {{ partial "blocks/fourImages" . }}
+	    {{ end }}
+	{{ end }} */}}
+	</section>
+
+	<section class="w-80 mw8-l center pv5">
+
+		<article class="mw8 center bg-red">
+			<div class="dt-ns dt--fixed-ns w-100">
+				<div class="pa3 pa4-ns dtc-ns v-mid">
+					<div>
+						<h2 class="fw4 white mt0 mb3">Have a project in mind?</h2>
+						<p class="white-90 measure lh-copy mv0">
+							We'd love to talk things over with you.
+						</p>
+					</div>
+				</div>
+				<div class="pa3 pa4-ns dtc-ns v-mid">
+					<a href="/#contact" class="no-underline f4 tc ttu tracked db w-100 pv3 bg-animate bg-green hover-bg-white black hover-black">Hire us</a>
+				</div>
+			</div>
+		</article>
+
+		</section>
+
+	{{/* {{ partial "relatedProjects.html" . }} */}}
+{{ end }}

@@ -21,6 +21,7 @@ disableKinds = ["taxonomy","taxonomyTerm"]
     weight = -140
     identifier = "people"
     url = "/#people"
+    # url = "/people"
   [[menu.main]]
     name = "Skills"
     weight = -120
