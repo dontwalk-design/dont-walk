@@ -45,3 +45,5 @@ fields:
   config:
     min: 
     max: 
+pages:
+- content/people/mark-mcaulay.md
