@@ -18,7 +18,7 @@
 		<h1>We collaborate with these fine people</h1>
 
 		<div class="cf mv5">
-			{{ range (where .Data.Pages "Section" "collaborators").ByDate.Reverse }}
+			{{ range (where .Site.RegularPages "Section" "collaborators").ByDate.Reverse }}
 		  {{ partial "people/collaboratorExcerpt.html" . }}
 			{{ end }}
 		</div>
