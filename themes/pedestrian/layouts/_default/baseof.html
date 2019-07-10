@@ -52,7 +52,7 @@
             {{ if eq .IsHome true }}
             {{ $currentNode := . }}
             {{ range .Site.Menus.main }}
-            <a class="link dim black f5 f4-l dib mv1 mr3 mr3-l bb bw2 b--white" href="{{ .URL }}" title="{{ .Name }}">{{ .Name }}</a>
+            <a class="link dim black f5 f4-l dib mv1 mr3 mr3-l bb bw2 b--red" href="{{ .URL }}" title="{{ .Name }}">{{ .Name }}</a>
             {{ end }}
             {{ else }}
             {{ $currentNode := . }}
