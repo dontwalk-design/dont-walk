@@ -1,0 +1,11 @@
+  <div class="fl w-50-ns pl2-ns f4 f3-l lh-copy">
+    <a class="link black" href="{{ .Permalink }}">
+    <div class="fl w-30-ns">
+      <img src="{{ .Params.collaborator_image}}" alt="{{ .Params.collaborator_name }}" class="db" />
+    </div>
+    <div class="fl w-100 w-70-ns pl4-ns">
+      <p class="lh-solid">{{ .Params.collaborator_name }}<br>{{ .Params.collaborator_role }}</p>
+      <p class="pl0 cf f5">{{ .Params.collaborator_excerpt }}</p>
+    </div>
+    </a>
+  </div>
