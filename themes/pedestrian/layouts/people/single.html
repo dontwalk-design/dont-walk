@@ -2,12 +2,10 @@
 
 	<section class="w-80 mw8-l center pv4">
 		<h1 class="ttu f3 f1-ns">
-			{{ .Title }}<br/>Role
-			{{/* {{ .Params.project_client }}:<br/>
-			{{ .Params.project_title }} */}}
+			{{ .Params.person_name }}:<br/>
+			{{ .Params.person_role }}
 		</h1>
-		{{ .Content }}
-		{{/* {{ range .Params.a_project }}
+		{{ range .Params.person_details }}
 			{{ if eq "large-image" .template }}
 				{{ partial "blocks/largeImage" . }}
 			{{ end }}
@@ -26,7 +24,7 @@
 			{{ if eq "four-images" .template }}
 	        {{ partial "blocks/fourImages" . }}
 	    {{ end }}
-	{{ end }} */}}
+	{{ end }}
 	</section>
 
 	<section class="w-80 mw8-l center pv5">
