@@ -1,4 +1,47 @@
 ---
 label: A Person
 hide_body: true
-fields: []
+fields:
+- name: person_name
+  type: text
+  config:
+    required: false
+  label: Person Name
+- name: person_role
+  type: text
+  config:
+    required: false
+  label: Person Role
+- name: person_image
+  type: file
+  config:
+    maxSize: 250
+  label: Person Image
+  description: This is the image shown with the excerpt
+- name: person_excerpt
+  type: text
+  config:
+    required: false
+  label: Person Excerpt
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: DD/MM/YYYY
+    time_format: 
+    display_utc: false
+- name: person_details
+  type: blocks
+  label: Person Details
+  template_types:
+  - large-image
+  - heading
+  - subheading
+  - paragraphs
+  - two-images
+  - four-images
+  config:
+    min: 
+    max: 
