@@ -32,6 +32,8 @@ sections:
   label: Collaborators
   create: all
   match: "**/*"
+  templates:
+  - a-collaborator
 - type: directory
   path: content
   label: Pages
