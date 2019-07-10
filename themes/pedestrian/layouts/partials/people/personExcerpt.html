@@ -1,9 +1,11 @@
-  <div class="pb3">
-    <div class="w-100">
-      <a class="link" href="{{ .Permalink }}">hiya
-        {{/* <img src="{{ .Params.project_image | relURL }}" alt="{{ .Params.project_title }}"> */}}
-      </a>
-      <h2 class="f5 f4-ns">{{ .Params.title }}: <br/>{{ .Params.role }}</h2>
-      <p>{{ .Params.description }}</p>
+  <div class="fl w-50-ns pl2-ns f4 f3-l lh-copy">
+    <a class="link black" href="{{ .Permalink }}">
+    <div class="fl w-30-ns">
+      <img src="{{ .Params.person_image}}" alt="Mark McAulay" class="db" />
     </div>
+    <div class="fl w-100 w-70-ns pl4-ns">
+      <p class="lh-solid">{{ .Params.person_name }}<br>{{ .Params.person_role }}</p>
+      <p class="pl0 cf f5">{{ .Params.person_excerpt }}</p>
+    </div>
+    </a>
   </div>
