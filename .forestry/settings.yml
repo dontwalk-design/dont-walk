@@ -21,6 +21,11 @@ sections:
   - section-entry-page
   - a-post
 - type: directory
+  path: content/people
+  label: people
+  create: all
+  match: "**/*"
+- type: directory
   path: content
   label: Pages
   create: all
