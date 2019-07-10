@@ -52,7 +52,7 @@
             {{ if eq .IsHome true }}
             {{ $currentNode := . }}
             {{ range .Site.Menus.main }}
-            <a class="link dim black f5 f4-l dib mv1 mr3 mr3-l bb bw2 b--red" href="{{ .URL }}" title="{{ .Name }}">{{ .Name }}</a>
+            <a class="link dim black f5 f4-l dib mv1 mr3 mr3-l bb bw2 b--black-80" href="{{ .URL }}" title="{{ .Name }}">{{ .Name }}</a>
             {{ end }}
             {{ else }}
             {{ $currentNode := . }}
@@ -85,11 +85,11 @@
         <div class="cf">
 
           <div class="fl w-100 w-30-l pv2">
-            <a class="link black dim bb bw2 b--white" href="mailto:info@dont-walk.com">info@dont-walk.com</a>
+            <a class="link black dim bb bw2 b--black-80" href="mailto:info@dont-walk.com">info@dont-walk.com</a>
           </div>
 
           <div class="fl w-100 w-40-l pv2">
-            <a class="link black dim bb bw2 b--white" href="tel:+447966183456">+44 (0) 7966 183 456</a>
+            <a class="link black dim bb bw2 b--black-80" href="tel:+447966183456">+44 (0) 7966 183 456</a>
           </div>
 
           <div class="fl w-100 w-30-l pv2 tr-l">
