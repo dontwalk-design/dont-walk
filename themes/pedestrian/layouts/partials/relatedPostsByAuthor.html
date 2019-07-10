@@ -1,0 +1,26 @@
+{{ $maxNumberPages := 10 }}
+{{ $page_link := .Permalink }}
+{{ if isset .Params "post_author" }}
+  {{ .Scratch.Set "author" .Params.post_author }}
+{{ end }}
+{{ $author := .Scratch.Get "post_author" }}
+{{ $allBlogs := (where .Site.RegularPages "Section" "blog").ByDate.Reverse }}
+{{ $relatedArticles := where $allBlogs ".Params.post_author" $author }}
+{{ $areRelated := gt (len $relatedArticles) 0 }}
+
+Blog Posts
+
+
+      <!-- If there are related blogs show those, otherwise just get the latest up to a maximum of $maxNumberPages -->
+      {{ .Scratch.Set "matches" "0" }}
+      {{ range $allBlogs }}
+        {{ if eq .Params.post_author $author }}
+          {{ if ne $page_link .Permalink }}
+            {{ if lt (int ($.Scratch.Get "matches")) $maxNumberPages }}
+              {{ .Params.post_title }} - {{ .Params.post_author }}
+              <a href="{{ .Permalink }}" class="">blergo03</a>
+              {{ $.Scratch.Set "matches" (add (int ($.Scratch.Get "matches")) 1) }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      {{ end }}

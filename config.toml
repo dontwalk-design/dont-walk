@@ -47,6 +47,10 @@ toLower = false
   name = "relateMe"
   weight = 100.0
 
+  [[Related.indices]]
+  name = "post_author"
+  weight = 1
+
   [[related.indices]]
   name = "date"
   weight = 10.0

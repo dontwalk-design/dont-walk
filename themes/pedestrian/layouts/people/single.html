@@ -27,6 +27,37 @@
 	{{ end }}
 	</section>
 
+	<section class="w-80 mw8-l center pa4 pt1 bg-white">
+		{{ $related := .Site.RegularPages.RelatedTo ( keyVals "post_author" .Params.person_name ) | first 6 }}
+		{{ with $related }}
+		<h1>The things he wants you to know</h3>
+		{{/* <ul class="list"> */}}
+			{{ range . }}
+			<a class="dt w-100 bb b--white pb2 mt3 link black" href="{{ .Permalink }}">
+	      <div class="dtc w3 w4-ns v-mid">
+	        <img src="{{ .Params.post_image | relURL }}" class="db mw-100"/>
+	      </div>
+	      <div class="dtc v-mid pl3">
+	        <h2 class="f6 f4-ns fw6 lh-title black mv0">{{ .Params.post_title }}</h1>
+	        <p class="f6 fw4 mt0 mb0 black-80">{{ .Params.post_excerpt }}</p>
+					<p class="f6 fw4 mt1 mb0 black-70">Published on {{ .Date.Format "02.01.2006" }}</p>
+	      </div>
+	    </a>
+			{{ end }}
+		{{/* </ul> */}}
+		{{ end }}
+
+
+
+
+
+
+
+
+
+
+	</section>
+
 	<section class="w-80 mw8-l center pv5">
 
 		<article class="mw8 center bg-red">
