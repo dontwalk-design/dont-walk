@@ -1,4 +1,33 @@
 ---
 label: A Collaborator
 hide_body: true
-fields: []
+fields:
+- name: collaborator_name
+  type: text
+  config:
+    required: false
+  label: Collaborator Name
+- name: collaborator_role
+  type: text
+  config:
+    required: false
+  label: Collaborator Role
+- name: collaborator_image
+  type: file
+  config:
+    maxSize: 250
+  label: Collaborator Image
+- name: collaborator_excerpt
+  type: text
+  config:
+    required: false
+  label: Collaborator Excerpt
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: DD/MM/YYYY
+    time_format: 
+    display_utc: false
