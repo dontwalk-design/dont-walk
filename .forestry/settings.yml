@@ -25,6 +25,8 @@ sections:
   label: people
   create: all
   match: "**/*"
+  templates:
+  - a-person
 - type: directory
   path: content
   label: Pages
