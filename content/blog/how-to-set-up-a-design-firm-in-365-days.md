@@ -2,12 +2,14 @@
 date = "2019-03-15T00:00:00+00:00"
 post_author = "Stewart Ainslie"
 post_excerpt = "One year in, we’ve shared a few thoughts on our experience of setting up a design firm. From two designers who should really know better."
-post_image = "/uploads/365-days.jpg"
+post_image = "/uploads/How-ro-set-up-design-agency-in-365-days-260719.png"
 post_title = "How to set up a design firm in 365 days."
 relateMe = "post"
 [[a_post]]
 template = "large-image"
 [[a_post.one_image]]
+alt_text = ""
+caption = ""
 image = "/uploads/365-days.jpg"
 template = "image-with-caption"
 [[a_post]]
@@ -20,6 +22,7 @@ template = "paragraphs"
 template = "large-image"
 [[a_post.one_image]]
 alt_text = "Mark and Stewart are not very good at walking."
+caption = ""
 image = "/uploads/mark-stew.jpg"
 template = "image-with-caption"
 [[a_post]]
@@ -35,6 +38,7 @@ template = "paragraphs"
 template = "large-image"
 [[a_post.one_image]]
 alt_text = "Bank chat"
+caption = ""
 image = "/uploads/the-bank-said-no.jpg"
 template = "image-with-caption"
 [[a_post]]
@@ -55,6 +59,7 @@ image = "/uploads/swatches.jpg"
 template = "image-with-caption"
 [[a_post.two_images]]
 alt_text = "Quote"
+caption = ""
 image = "/uploads/looks-green.jpg"
 template = "image-with-caption"
 [[a_post]]
