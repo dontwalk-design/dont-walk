@@ -10,7 +10,7 @@ template = "large-image"
 [[a_post.one_image]]
 alt_text = ""
 caption = ""
-image = "/uploads/365-days.jpg"
+image = "/uploads/How-ro-set-up-design-agency-in-365-days-260719.png"
 template = "image-with-caption"
 [[a_post]]
 heading = "The background"
