@@ -2,10 +2,21 @@
 date = "2019-07-04T23:00:00+00:00"
 project_client = "Ramblers Scotland"
 project_excerpt = "Linking young people to the outdoors."
-project_image = "/uploads/OutThereAward-Cover_2019.jpg"
+project_image = "/uploads/Ramblers-OutThereAward-Cover_260719-1.jpg"
 project_title = "Out There Awards"
 relateMe = "project"
 testimonial = ""
+[add_a_testimonial]
+testimonial_body = ""
+testimonial_citation = ""
+testimonial_graphic = ""
+[[a_project]]
+template = "large-image"
+[[a_project.one_image]]
+alt_text = ""
+caption = ""
+image = "/uploads/Ramblers-OutThereAward-Header_260719.jpg"
+template = "image-with-caption"
 [[a_project]]
 heading = "Getting you people Out There"
 template = "heading"

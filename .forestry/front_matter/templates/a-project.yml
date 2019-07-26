@@ -68,9 +68,9 @@ fields:
   hidden: true
   default: project
 pages:
+- content/work/ramblers-scotland-out-there-awards.md
 - content/work/historic-scotland-exhibition.md
 - content/work/ramblers-scotland-annual-report.md
-- content/work/ramblers-scotland-out-there-awards.md
 - content/work/great-game-waterloo-replayed.md
 - content/work/Dunblane-Museum-Atlantic-Walls.md
 - content/work/singularity-sauce-co-brand-packaging.md
