@@ -14,7 +14,7 @@ testimonial_graphic = ""
 heading = ""
 template = "heading"
 [[a_project]]
-paragraphs = ""
+paragraphs = "2019 saw the largest ever battlefield recreation take place on our doorstep in Glasgow. With over 22,00 participants, over two days and involving 100+ commanders this was no small undertaking...\n\nWe provided consultancy to this project, supporting Waterloo Uncovered and in collaboration with TV personality and Professor of Battlefield Archaeology, Tony Pollard."
 template = "paragraphs"
 [[a_project]]
 template = "large-image"
