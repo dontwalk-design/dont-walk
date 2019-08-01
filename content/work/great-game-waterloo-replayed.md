@@ -6,6 +6,10 @@ project_image = "/uploads/Waterloo-Replayed-Cover-1024x640_2019.png"
 project_title = "The Great Game (Waterloo Replayed)"
 relateMe = "project"
 testimonial = ""
+[add_a_testimonial]
+testimonial_body = ""
+testimonial_citation = ""
+testimonial_graphic = ""
 [[a_project]]
 heading = ""
 template = "heading"
