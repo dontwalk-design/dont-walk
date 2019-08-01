@@ -29,5 +29,8 @@ alt_text = ""
 caption = ""
 image = "/uploads/Great-Game-Illustrations.jpg"
 template = "image-with-caption"
+[[a_project]]
+paragraphs = "Stew's obsessed with painting miniatures, he's even been [published by a design magazine](https://www.creativebloq.com/features/great-creative-hobbies) on the subject.\n\nSo this project was a bit of a dream come true.\n\nFor more of our work [get in touch](https://dont-walk.com/#contact). Or if you really want to read about what Stew does in his spare time [click here](https://medium.com/@stewartainslie/what-i-do-in-the-shadows-47d1447c34dc?source=friends_link&sk=4922017a4dba3c1ac95ef036186e98e7).\n\n_Full case study coming soon._"
+template = "paragraphs"
 
 +++
