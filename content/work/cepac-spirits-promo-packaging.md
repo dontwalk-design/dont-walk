@@ -2,7 +2,7 @@
 title: 'Cepac: Spirits Promo Packaging'
 description: Don't Walk designed and co-ordinated a print campaign to introduce the
   Arcwise packaging system.
-date: 2019-03-25T23:04:07.000+00:00
+date: 2019-07-31T22:04:07+00:00
 images:
 - images/work/cepac/cepac.png
 relateMe: project

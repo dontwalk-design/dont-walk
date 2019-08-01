@@ -68,6 +68,7 @@ fields:
   hidden: true
   default: project
 pages:
+- content/work/cepac-spirits-promo-packaging.md
 - content/work/SMR-Brand-Building.md
 - content/work/great-game-waterloo-replayed.md
 - content/work/ramblers-scotland-out-there-awards.md
@@ -77,4 +78,3 @@ pages:
 - content/work/ramblers-scotland-annual-report.md
 - content/work/Dunblane-Museum-Atlantic-Walls.md
 - content/work/aberdeenmrt-sponsored-walk-2019.md
-- content/work/cepac-spirits-promo-packaging.md
