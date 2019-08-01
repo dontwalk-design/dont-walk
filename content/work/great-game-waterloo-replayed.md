@@ -20,7 +20,7 @@ template = "paragraphs"
 heading = "On a small scale..."
 template = "heading"
 [[a_project]]
-paragraphs = "There was always going to be a catch. The Kelvin Gallery has capacity for 300 (not 22,000) humans. So this recreation was war-gamed in 28mm using miniatures and a giant games mat!\n\nA charity event with sponsorship raised supporting the valuable work of Waterloo Uncovered. Encouraging engagement between veteran’s groups, schools, and wargames clubs."
+paragraphs = "There was always going to be a catch. The Kelvin Gallery has capacity for 300 (not 22,000) humans. So this recreation was war-gamed in 28mm using miniatures and a giant games mat!\n\nThe event was for charity with sponsorship raised supporting the valuable work of [Waterloo Uncovered](http://www.waterloouncovered.com/). Encouraging engagement between veteran’s groups, schools, and wargames clubs."
 template = "paragraphs"
 [[a_project]]
 template = "large-image"
