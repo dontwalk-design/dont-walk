@@ -68,9 +68,9 @@ fields:
   hidden: true
   default: project
 pages:
+- content/work/Dubh-Mor-Brand-Consulting.md
 - content/work/ramblers-scotland-out-there-awards.md
 - content/work/Dunblane-Museum-Atlantic-Walls.md
-- content/work/Dubh-Mor-Brand-Consulting.md
 - content/work/engine-shed-master-builders-2019.md
 - content/work/cepac-spirits-promo-packaging.md
 - content/work/SMR-Brand-Building.md

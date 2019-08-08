@@ -18,5 +18,27 @@ template = "subheading"
 [[a_project]]
 paragraphs = "So when he told us that he was looking to expand his base of private clients we jumped at the opportunity to work with him.\n\nBack in 2015 Neil was trading under his own name and was reticent to use social media unaided. However, he had identified space in the outdoor leisure market for his skills and recognised that brand would be a factor in engaging with leisure customers."
 template = "paragraphs"
+[[a_project]]
+template = "four-images"
+[[a_project.four_images]]
+alt_text = "Hillwalking photo with a directional icon overlaid in orange."
+caption = ""
+image = "/uploads/hillwalking-cta-gs.jpg"
+template = "image-with-caption"
+[[a_project.four_images]]
+alt_text = "Climbing photograph with an orange up/down icon overlaid."
+caption = ""
+image = "/uploads/climbing-cta-2-gs.jpg"
+template = "image-with-caption"
+[[a_project.four_images]]
+alt_text = "A man carrying a canoe barrel photograph with an wavy icon overlaid."
+caption = ""
+image = "/uploads/canoeing-cta-gs.jpg"
+template = "image-with-caption"
+[[a_project.four_images]]
+alt_text = ""
+caption = ""
+image = ""
+template = "image-with-caption"
 
 +++
