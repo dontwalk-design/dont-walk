@@ -10,13 +10,10 @@ testimonial_body = ""
 testimonial_citation = ""
 testimonial_graphic = ""
 [[a_project]]
-heading = "Go big or go home"
-template = "heading"
-[[a_project]]
-subheading = "We've been outdoors with Neil before. It's always an unforgettable experience."
+subheading = "Go big or go home"
 template = "subheading"
 [[a_project]]
-paragraphs = "So when he told us that he was looking to expand his base of private clients we jumped at the opportunity to work with him.\n\nIn 2015 Neil was trading under his own name and was reticent to use social media. He had identified an opportunity to grow his offering and increase his presence in the outdoor leisure industry."
+paragraphs = "We've been outdoors with Neil before. It's always an unforgettable experience."
 template = "paragraphs"
 [[a_project]]
 template = "four-images"
@@ -40,5 +37,8 @@ alt_text = "Photograph of people scrambling over rock with an scatter icon overl
 caption = ""
 image = "/uploads/scrambling-cta-gs.jpg"
 template = "image-with-caption"
+[[a_project]]
+paragraphs = "So when he told us that he was looking to expand his base of private clients we jumped at the opportunity to work with him.\n\nIn 2015 Neil was trading under his own name and was reticent to use social media. He had identified an opportunity to grow his offering and increase his presence in the outdoor leisure industry."
+template = "paragraphs"
 
 +++
