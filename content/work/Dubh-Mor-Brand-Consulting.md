@@ -36,9 +36,9 @@ caption = ""
 image = "/uploads/canoeing-cta-gs.jpg"
 template = "image-with-caption"
 [[a_project.four_images]]
-alt_text = ""
+alt_text = "Photograph of people scrambling over rock with an scatter icon overlaid."
 caption = ""
-image = ""
+image = "/uploads/scrambling-cta-gs.jpg"
 template = "image-with-caption"
 
 +++
