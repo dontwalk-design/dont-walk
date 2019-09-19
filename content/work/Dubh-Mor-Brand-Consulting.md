@@ -58,7 +58,7 @@ template = "image-with-caption"
 subheading = "Master your own destiny "
 template = "subheading"
 [[a_project]]
-paragraphs = "Fast forward a few years and Neil (now Dubh Mor) is regularly taking groups, individuals and organisations outdoors.\n\nWe supported his business with—\n\n* Branding\n* Tone of voice\n* Content creation\n* Web consultancy\n* Strategy\n* Social media\n* Procurement\n* Print buying\n\nCheck out his site, built by [Alan Gunning](), here: [dubhmor.co.uk](http://dubhmor.co.uk \"http://dubhmor.co.uk\")"
+paragraphs = "Fast forward a few years and Neil (now Dubh Mor) is regularly taking groups, individuals and organisations outdoors.\n\nWe supported his business with—\n\n* Branding\n* Tone of voice\n* Content creation\n* Web consultancy\n* Strategy\n* Social media\n* Procurement\n* Print buying\n\nCheck out his site, built by [Alan Gunning](https://www.linkedin.com/in/algunning/) here: [dubhmor.co.uk](http://dubhmor.co.uk \"http://dubhmor.co.uk\")"
 template = "paragraphs"
 
 +++
