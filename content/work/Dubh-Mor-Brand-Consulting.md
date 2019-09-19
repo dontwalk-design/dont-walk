@@ -51,7 +51,7 @@ template = "paragraphs"
 template = "large-image"
 [[a_project.one_image]]
 alt_text = "Dubh Mor Logo"
-caption = ""
+caption = "Logomark"
 image = "/uploads/Dubh-Mor-Logo-1024.jpg"
 template = "image-with-caption"
 [[a_project]]
