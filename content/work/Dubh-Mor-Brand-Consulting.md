@@ -48,6 +48,13 @@ template = "image-with-caption"
 paragraphs = "In 2015 Neil was trading under his own name and was reticent to use social media. He had identified an opportunity to grow his offering and increase his presence in the outdoor leisure industry.\n\nHis goal was to increase his presence, allowing him more control over the type of work he was best qualified to instruct and lead."
 template = "paragraphs"
 [[a_project]]
+template = "large-image"
+[[a_project.one_image]]
+alt_text = "Dubh Mor Logo"
+caption = ""
+image = "/uploads/Dubh-Mor-Logo-1024.jpg"
+template = "image-with-caption"
+[[a_project]]
 subheading = "Master your own destiny "
 template = "subheading"
 [[a_project]]
