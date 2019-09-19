@@ -17,7 +17,7 @@ template = "large-image"
 [[a_project.one_image]]
 alt_text = "It's out there (and there, and there... and there)"
 caption = ""
-image = "/uploads/Dubh-Mor-Facebook-Header.jpg"
+image = "/uploads/Dubh-Mor-1024.jpg"
 template = "image-with-caption"
 [[a_project]]
 paragraphs = "We've been outdoors with Neil before. It's always an unforgettable experience.\n\nSo when he told us that he was looking to expand his base of private clients we jumped at the opportunity to work with him."
