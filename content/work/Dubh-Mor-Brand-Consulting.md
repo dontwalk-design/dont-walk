@@ -20,7 +20,7 @@ caption = ""
 image = "/uploads/Dubh-Mor-Facebook-Header.jpg"
 template = "image-with-caption"
 [[a_project]]
-paragraphs = "We've been outdoors with Neil before. It's always an unforgettable experience."
+paragraphs = "We've been outdoors with Neil before. It's always an unforgettable experience.\n\nSo when he told us that he was looking to expand his base of private clients we jumped at the opportunity to work with him."
 template = "paragraphs"
 [[a_project]]
 template = "four-images"
@@ -45,7 +45,7 @@ caption = ""
 image = "/uploads/scrambling-cta-gs.jpg"
 template = "image-with-caption"
 [[a_project]]
-paragraphs = "So when he told us that he was looking to expand his base of private clients we jumped at the opportunity to work with him.\n\nIn 2015 Neil was trading under his own name and was reticent to use social media. He had identified an opportunity to grow his offering and increase his presence in the outdoor leisure industry."
+paragraphs = "In 2015 Neil was trading under his own name and was reticent to use social media. He had identified an opportunity to grow his offering and increase his presence in the outdoor leisure industry.\n\nHis goal was to increase his presence, allowing him more control over the type of work he was best qualified to instruct and lead."
 template = "paragraphs"
 [[a_project]]
 paragraphs = ""
