@@ -13,6 +13,13 @@ testimonial_graphic = ""
 subheading = "Go big or go home"
 template = "subheading"
 [[a_project]]
+template = "large-image"
+[[a_project.one_image]]
+alt_text = "It's out there (and there, and there... and there)"
+caption = ""
+image = "/uploads/Dubh-Mor-Facebook-Header.jpg"
+template = "image-with-caption"
+[[a_project]]
 paragraphs = "We've been outdoors with Neil before. It's always an unforgettable experience."
 template = "paragraphs"
 [[a_project]]
@@ -40,13 +47,6 @@ template = "image-with-caption"
 [[a_project]]
 paragraphs = "So when he told us that he was looking to expand his base of private clients we jumped at the opportunity to work with him.\n\nIn 2015 Neil was trading under his own name and was reticent to use social media. He had identified an opportunity to grow his offering and increase his presence in the outdoor leisure industry."
 template = "paragraphs"
-[[a_project]]
-template = "large-image"
-[[a_project.one_image]]
-alt_text = "It's out there (and there, and there... and there)"
-caption = ""
-image = "/uploads/Dubh-Mor-Facebook-Header.jpg"
-template = "image-with-caption"
 [[a_project]]
 paragraphs = ""
 template = "paragraphs"
