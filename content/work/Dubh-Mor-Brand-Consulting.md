@@ -20,7 +20,7 @@ caption = ""
 image = "/uploads/Dubh-Mor-1024.jpg"
 template = "image-with-caption"
 [[a_project]]
-paragraphs = "We've been outdoors with Neil before. It's always an unforgettable experience.\n\nSo when he told us that he was looking to expand his base of private clients we jumped at the opportunity to work with him."
+paragraphs = "We've been outdoors with Neil before. It's always an unforgettable experience.\n\nSo when he told us that he was looking to expand his base of private clients we jumped at the opportunity to work with him. He is a highly experienced AMI qualified instructor with an infectious enthusiasm and a passion for bigger and better adventures. In short, he's everything we're not when it comes to the outdoors!"
 template = "paragraphs"
 [[a_project]]
 template = "four-images"
