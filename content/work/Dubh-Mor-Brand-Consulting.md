@@ -48,7 +48,10 @@ template = "image-with-caption"
 paragraphs = "In 2015 Neil was trading under his own name and was reticent to use social media. He had identified an opportunity to grow his offering and increase his presence in the outdoor leisure industry.\n\nHis goal was to increase his presence, allowing him more control over the type of work he was best qualified to instruct and lead."
 template = "paragraphs"
 [[a_project]]
-paragraphs = ""
+subheading = "Master your own destiny "
+template = "subheading"
+[[a_project]]
+paragraphs = "Fast forward a few years and Neil (now Dubh Mor) is regularly taking groups, individuals and organisations outdoors.\n\nWe supported his business with—\n\n* Branding\n* Tone of voice\n* Content creation\n* Web consultancy\n* Strategy\n* Social media\n* Procurement\n* Print buying "
 template = "paragraphs"
 
 +++
