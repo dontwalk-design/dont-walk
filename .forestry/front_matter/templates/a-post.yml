@@ -48,6 +48,7 @@ fields:
   config:
     required: true
 pages:
+- content/blog/Freelance-Focus-Jemma-Beedie.md
 - content/blog/Freelance-Focus-Paul-Mullen.md
 - content/blog/ConnorLyon-profile.md
 - content/blog/AberdeenMRT-Walk2019.md
