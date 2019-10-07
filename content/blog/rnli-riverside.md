@@ -42,8 +42,8 @@ template = "paragraphs"
 [[a_post]]
 template = "large-image"
 [[a_post.one_image]]
-alt_text = "Riverside RNLI Menu - available to download below"
-caption = "Riverside RNLI Menu - available to download below"
+alt_text = ""
+caption = ""
 image = "/uploads/RNLI-Riverside-Fish-Supper-Menu.jpg"
 template = "image-with-caption"
 [[a_post]]
