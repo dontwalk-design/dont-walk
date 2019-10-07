@@ -27,14 +27,14 @@ template = "paragraphs"
 [[a_post]]
 template = "two-images"
 [[a_post.two_images]]
-alt_text = ""
-caption = ""
-image = "/uploads/Eventbrite-RNLI-Message.jpg"
-template = "image-with-caption"
-[[a_post.two_images]]
 alt_text = "Event Poster"
 caption = ""
 image = "/uploads/RNLI-A4-FishSupper-Poster-071019.jpg"
+template = "image-with-caption"
+[[a_post.two_images]]
+alt_text = ""
+caption = ""
+image = "/uploads/Eventbrite-RNLI-Message.jpg"
 template = "image-with-caption"
 [[a_post]]
 paragraphs = "Price includes one drink on arrival, a main meal during the event and coffee after dinner. Drinking water will be provided at the table and the bar at the Riverside is open for the duration. We will do our best to seat groups together but cannot guarantee you will not be sharing a table with others. Whilst we are working hard to ensure all seating needs are accommodated it not always possible due to the nature of this event.\n\n**All proceeds will be donated to the RNLI.**"
