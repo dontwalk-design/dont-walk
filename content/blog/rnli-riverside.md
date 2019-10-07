@@ -25,15 +25,15 @@ template = "subheading"
 paragraphs = "**Tickets for the Riverside event in Dunblane are £22 and can be purchased through Eventbrite:**\n\n[**Eventbrite RNLI Riverside Tickets**](Tickets are £22 and ca be purchased through eventbrite:  http://rnli-fish-supper-riverside.eventbrite.co.uk  Price includes one drink on arrival, a main meal during the event and coffee after dinner. Drinking water will be provided at the table and the bar at the Riverside is open for the duration. We will do our best to seat groups together but cannot guarantee you will not be sharing a table with others. Whilst we are working hard to ensure all seating needs are accommodated it not always possible due to the nature of this event. \"Tickets RNLI\")\n\nKeep scrolling for more information."
 template = "paragraphs"
 [[a_post]]
-paragraphs = "There will be a short talk, table games and a chance to mingle in Riverside Dunblane. By attending a Fish Supper your support will help bring RNLI Lifeboat Crews safely home.\n\nWe can't wait to see you on the 22nd!"
-template = "paragraphs"
-[[a_post]]
 template = "large-image"
 [[a_post.one_image]]
 alt_text = "RNLI crew members drop everything when their pagers go off— even a home-cooked meal with the family."
 caption = "It can be easy to forget the amazing work that volunteers undertake for the RNLI."
 image = "/uploads/Eventbrite-RNLI-Message.jpg"
 template = "image-with-caption"
+[[a_post]]
+paragraphs = "There will be a short talk, table games and a chance to mingle in Riverside Dunblane. By attending a Fish Supper your support will help bring RNLI Lifeboat Crews safely home.\n\nWe can't wait to see you on the 22nd!"
+template = "paragraphs"
 [[a_post]]
 paragraphs = "Price includes one drink on arrival, a main meal during the event and coffee after dinner. Drinking water will be provided at the table and the bar at the Riverside is open for the duration. We will do our best to seat groups together but cannot guarantee you will not be sharing a table with others. Whilst we are working hard to ensure all seating needs are accommodated it not always possible due to the nature of this event.\n\n**All proceeds will be donated to the RNLI.**"
 template = "paragraphs"
