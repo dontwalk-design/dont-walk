@@ -29,7 +29,7 @@ caption = "It can be easy to forget the amazing work that volunteers undertake f
 image = "/uploads/Eventbrite-RNLI-Message.jpg"
 template = "image-with-caption"
 [[a_post]]
-paragraphs = ""
+paragraphs = "**_Tickets are £22 and can be purchased through Eventbrite:_**\n\n[**Eventbrite RNLI Riverside Tickets**](Tickets are £22 and ca be purchased through eventbrite:  http://rnli-fish-supper-riverside.eventbrite.co.uk  Price includes one drink on arrival, a main meal during the event and coffee after dinner. Drinking water will be provided at the table and the bar at the Riverside is open for the duration. We will do our best to seat groups together but cannot guarantee you will not be sharing a table with others. Whilst we are working hard to ensure all seating needs are accommodated it not always possible due to the nature of this event. \"Tickets RNLI\")\n\n_Price includes one drink on arrival, a main meal during the event and coffee after dinner. Drinking water will be provided at the table and the bar at the Riverside is open for the duration. We will do our best to seat groups together but cannot guarantee you will not be sharing a table with others. Whilst we are working hard to ensure all seating needs are accommodated it not always possible due to the nature of this event._"
 template = "paragraphs"
 
 +++
