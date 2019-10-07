@@ -6,14 +6,11 @@ post_image = "/uploads/RNLI-FishSupper-Blog-Cover-1024x640.png"
 post_title = "RNLI Fish Supper: Dinner with the Chair"
 relateMe = "post"
 [[a_post]]
-heading = "The Fish Supper is the annual RNLI event of the autumn which supports their life saving work."
-template = "heading"
-[[a_post]]
-paragraphs = "Individuals, groups and organisations are asked to sit down together for a meal, remember the work of volunteer lifeboat crews and raise funds for the charity.\n\nMore about the RNLI fish supper campaign [here](https://rnli.org/fish-supper \"rnli\")."
+paragraphs = "The Fish Supper is the annual RNLI event of the autumn which supports their life saving work.\n\nIndividuals, groups and organisations are asked to sit down together for a meal, remember the work of volunteer lifeboat crews and raise funds for the charity.\n\nMore about the RNLI fish supper campaign [here](https://rnli.org/fish-supper \"rnli\")."
 template = "paragraphs"
 [[a_post]]
-subheading = "We are delighted to host an evening with Roger Lockwood, Chair of the RNLI Scottish Council."
-template = "subheading"
+heading = "We are delighted to host an evening with Roger Lockwood, Chair of the RNLI Scottish Council."
+template = "heading"
 [[a_post]]
 template = "large-image"
 [[a_post.one_image]]
