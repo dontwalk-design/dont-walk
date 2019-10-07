@@ -6,8 +6,8 @@ post_image = "/uploads/RNLI-FishSupper-Blog-Cover-1024x640.png"
 post_title = "RNLI Fish Supper: Dinner with the Chair"
 relateMe = "post"
 [[a_post]]
-subheading = "The Fish Supper is the annual RNLI event of the autumn which supports their life saving work."
-template = "subheading"
+heading = "The Fish Supper is the annual RNLI event of the autumn which supports their life saving work."
+template = "heading"
 [[a_post]]
 subheading = "We are delighted to host an evening with Roger Lockwood, Chair of the RNLI Scottish Council."
 template = "subheading"
