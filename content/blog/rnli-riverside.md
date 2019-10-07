@@ -46,5 +46,8 @@ alt_text = "Riverside RNLI Menu - available to download below"
 caption = "Riverside RNLI Menu - available to download below"
 image = "/uploads/RNLI-Riverside-Fish-Supper-Menu.jpg"
 template = "image-with-caption"
+[[a_post]]
+paragraphs = "View the food menu in PDF format [here]().\n\nEmail <[stewart+rnli@dont-walk.com](mailto: stewart+rnli@dont-walk.com)> for more information"
+template = "paragraphs"
 
 +++
