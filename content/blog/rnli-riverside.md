@@ -9,15 +9,18 @@ relateMe = "post"
 heading = "The Fish Supper is the annual RNLI event of the autumn which supports their life saving work."
 template = "heading"
 [[a_post]]
-subheading = "We are delighted to host an evening with Roger Lockwood, Chair of the RNLI Scottish Council."
-template = "subheading"
-[[a_post]]
 template = "large-image"
 [[a_post.one_image]]
 alt_text = "RNLI Fish Supper: Dinner with the Chair - 22nd October 2019 at the Riverside Dunblane"
 caption = ""
 image = "/uploads/2019-fs_2-facebook-event-1920x1080.jpg"
 template = "image-with-caption"
+[[a_post]]
+paragraphs = ""
+template = "paragraphs"
+[[a_post]]
+subheading = "We are delighted to host an evening with Roger Lockwood, Chair of the RNLI Scottish Council."
+template = "subheading"
 [[a_post]]
 paragraphs = "There will be a short talk, table games and a chance to mingle in Riverside Dunblane. By attending a Fish Supper your support will help bring RNLI Lifeboat Crews safely home. \n\nWe can't wait to see you on the 22nd!\n\nGet your tickets here: "
 template = "paragraphs"
@@ -29,7 +32,7 @@ caption = "It can be easy to forget the amazing work that volunteers undertake f
 image = "/uploads/Eventbrite-RNLI-Message.jpg"
 template = "image-with-caption"
 [[a_post]]
-paragraphs = "**_Tickets are £22 and can be purchased through Eventbrite:_**\n\n[**Eventbrite RNLI Riverside Tickets**](Tickets are £22 and ca be purchased through eventbrite:  http://rnli-fish-supper-riverside.eventbrite.co.uk  Price includes one drink on arrival, a main meal during the event and coffee after dinner. Drinking water will be provided at the table and the bar at the Riverside is open for the duration. We will do our best to seat groups together but cannot guarantee you will not be sharing a table with others. Whilst we are working hard to ensure all seating needs are accommodated it not always possible due to the nature of this event. \"Tickets RNLI\")\n\n_Price includes one drink on arrival, a main meal during the event and coffee after dinner. Drinking water will be provided at the table and the bar at the Riverside is open for the duration. We will do our best to seat groups together but cannot guarantee you will not be sharing a table with others. Whilst we are working hard to ensure all seating needs are accommodated it not always possible due to the nature of this event._"
+paragraphs = "_Price includes one drink on arrival, a main meal during the event and coffee after dinner. Drinking water will be provided at the table and the bar at the Riverside is open for the duration. We will do our best to seat groups together but cannot guarantee you will not be sharing a table with others. Whilst we are working hard to ensure all seating needs are accommodated it not always possible due to the nature of this event._\n\nAll proceeds will be donated to the RNLI."
 template = "paragraphs"
 
 +++
