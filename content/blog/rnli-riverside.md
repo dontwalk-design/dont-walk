@@ -9,7 +9,7 @@ relateMe = "post"
 heading = "The Fish Supper is the annual RNLI event of the autumn which supports their life saving work."
 template = "heading"
 [[a_post]]
-paragraphs = "Individuals, groups and organisations are asked to sit down together for a meal, remember the work of volunteer lifeboat crews and raise funds for the charity.\n\nMore about RNLI [here](https://rnli.org/ \"rnli\")."
+paragraphs = "Individuals, groups and organisations are asked to sit down together for a meal, remember the work of volunteer lifeboat crews and raise funds for the charity.\n\nMore about the RNLI fish supper campaign [here](https://rnli.org/fish-supper \"rnli\")."
 template = "paragraphs"
 [[a_post]]
 template = "large-image"
@@ -36,9 +36,6 @@ paragraphs = "There will be a short talk, table games and a chance to mingle in 
 template = "paragraphs"
 [[a_post]]
 paragraphs = "Price includes one drink on arrival, a main meal during the event and coffee after dinner. Drinking water will be provided at the table and the bar at the Riverside is open for the duration. We will do our best to seat groups together but cannot guarantee you will not be sharing a table with others. Whilst we are working hard to ensure all seating needs are accommodated it not always possible due to the nature of this event.\n\n**All proceeds will be donated to the RNLI.**"
-template = "paragraphs"
-[[a_post]]
-paragraphs = "[https://rnli.org/video-player/85950BD6-7BAD-419A-8EE105057C8921CB](https://rnli.org/video-player/85950BD6-7BAD-419A-8EE105057C8921CB \"https://rnli.org/video-player/85950BD6-7BAD-419A-8EE105057C8921CB\")"
 template = "paragraphs"
 
 +++
