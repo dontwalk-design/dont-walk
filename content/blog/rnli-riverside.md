@@ -20,7 +20,7 @@ caption = ""
 image = "/uploads/2019-fs_2-facebook-event-1920x1080.jpg"
 template = "image-with-caption"
 [[a_post]]
-subheading = "This year we are delighted to host an evening with Roger Lockwood, Chair of the RNLI Scottish Council."
+subheading = "We are delighted to host an evening with Roger Lockwood, Chair of the RNLI Scottish Council."
 template = "subheading"
 [[a_post]]
 paragraphs = "There will be a short talk, table games and a chance to mingle in Riverside Dunblane. By attending a Fish Supper your support will help bring RNLI Lifeboat Crews safely home. \n\nWe can't wait to see you on the 22nd!\n\nGet your tickets here: "
