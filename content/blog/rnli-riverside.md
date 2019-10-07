@@ -1,6 +1,5 @@
 +++
 date = "2019-10-06T23:00:00+00:00"
-draft = true
 post_author = "Stewart Ainslie"
 post_excerpt = "Fundraising for the RNLI. The charity who save lives at sea."
 post_image = "/uploads/RNLI-FishSupper-Blog-Cover-1024x640.png"
