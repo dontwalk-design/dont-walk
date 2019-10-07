@@ -21,5 +21,15 @@ template = "image-with-caption"
 [[a_post]]
 paragraphs = "There will be a short talk, table games and a chance to mingle in Riverside Dunblane. By attending a Fish Supper your support will help bring RNLI Lifeboat Crews safely home. \n\nWe can't wait to see you on the 22nd!\n\nGet your tickets here: "
 template = "paragraphs"
+[[a_post]]
+template = "large-image"
+[[a_post.one_image]]
+alt_text = "RNLI crew members drop everything when their pagers go off— even a home-cooked meal with the family."
+caption = "It can be easy to forget the amazing work that volunteers undertake for the RNLI."
+image = "/uploads/Eventbrite-RNLI-Message.jpg"
+template = "image-with-caption"
+[[a_post]]
+paragraphs = ""
+template = "paragraphs"
 
 +++
