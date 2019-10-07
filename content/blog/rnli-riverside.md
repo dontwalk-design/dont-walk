@@ -22,7 +22,7 @@ template = "heading"
 paragraphs = "**Tickets for the Riverside event in Dunblane are £22 and can be purchased through Eventbrite:**\n\n[**Eventbrite RNLI Riverside Tickets**](Tickets are £22 and ca be purchased through eventbrite:  http://rnli-fish-supper-riverside.eventbrite.co.uk  Price includes one drink on arrival, a main meal during the event and coffee after dinner. Drinking water will be provided at the table and the bar at the Riverside is open for the duration. We will do our best to seat groups together but cannot guarantee you will not be sharing a table with others. Whilst we are working hard to ensure all seating needs are accommodated it not always possible due to the nature of this event. \"Tickets RNLI\")\n\nKeep scrolling for more information."
 template = "paragraphs"
 [[a_post]]
-paragraphs = "There will be a short talk, table games and a chance to mingle in Riverside Dunblane. By attending a Fish Supper your support will help bring RNLI Lifeboat Crews safely home.\n\nWe can't wait to see you on the 22nd!"
+paragraphs = "There will be a short talk, table games and a chance to mingle in Riverside Dunblane. By attending a Fish Supper your support will help bring RNLI Lifeboat Crews safely home. \n\nWe can't wait to see you on the 22nd!"
 template = "paragraphs"
 [[a_post]]
 template = "two-images"
@@ -47,7 +47,7 @@ caption = ""
 image = "/uploads/RNLI-Riverside-Fish-Supper-Menu.jpg"
 template = "image-with-caption"
 [[a_post]]
-paragraphs = "View the food menu in PDF format [here]().\n\nEmail <[stewart+rnli@dont-walk.com](mailto: stewart+rnli@dont-walk.com)> for more information"
+paragraphs = "View the food menu in PDF format [here](https://www.dropbox.com/s/5ozjgqzpomfuq1x/RNLI-Riverside-Fish-Supper-Menu.pdf?dl=0).\n\nEmail <[stewart+rnli@dont-walk.com](mailto: stewart+rnli@dont-walk.com)> for more information"
 template = "paragraphs"
 
 +++
