@@ -1,8 +1,0 @@
----
-label: Heading
-hide_body: true
-display_field: heading
-fields:
-- type: text
-  label: Heading
-  name: heading

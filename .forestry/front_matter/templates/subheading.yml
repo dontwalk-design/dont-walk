@@ -1,8 +1,0 @@
----
-label: Subheading
-hide_body: true
-display_field: subheading
-fields:
-- type: text
-  name: subheading
-  label: Subheading

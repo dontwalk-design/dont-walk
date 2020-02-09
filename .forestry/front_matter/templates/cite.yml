@@ -1,9 +1,0 @@
----
-label: Cite
-hide_body: true
-display_field: cite
-fields:
-- type: textarea
-  description: Name and organisation
-  label: Cite
-  name: cite

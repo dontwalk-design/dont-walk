@@ -1,9 +1,0 @@
----
-label: Testimonial Scribble
-hide_body: true
-display_field: testimonial_scribble
-fields:
-- type: file
-  name: testimonial_scribble
-  label: Testimonial Scribble
-  description: JPEG or PNG at 1024px wide
