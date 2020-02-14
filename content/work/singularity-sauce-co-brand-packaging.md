@@ -1,11 +1,16 @@
 +++
-date = "2019-05-31T23:00:00+00:00"
+date = 2019-05-31T23:00:00Z
+draft = true
 project_client = "Singularity Sauce Co"
 project_excerpt = "Brand, packaging and marketing for Mark's favourite hot sauce company."
 project_image = "/uploads/MASTER-CaseStudy-Cover-Logo-1024x640_2019.png"
 project_title = "Small batch hot sauce"
 relateMe = "project"
 testimonial = ""
+[add_a_testimonial]
+testimonial_body = ""
+testimonial_citation = ""
+testimonial_graphic = ""
 [[a_project]]
 template = "large-image"
 [[a_project.one_image]]
