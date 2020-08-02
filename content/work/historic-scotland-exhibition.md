@@ -25,6 +25,11 @@ a_project:
     broad scope of work taken on by HES. Project overview coming soon.
 testimonial: ''
 project_client: Historic Environment Scotland
+add_a_testimonial:
+  testimonial_graphic: ''
+  testimonial_body: ''
+  testimonial_citation: ''
+draft: true
 
 ---
 I am a project. There are many like me but i am unique.
